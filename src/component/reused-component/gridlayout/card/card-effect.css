@@ -1,0 +1,25 @@
+.img-hover-zoom {
+  overflow: hidden;
+}
+.img-hover-zoom .active,
+.img-hover-zoom .upcoming {
+  filter: opacity(100%);
+}
+.img-hover-zoom .active:hover,
+.img-hover-zoom .upcoming:hover {
+  filter: opacity(50%);
+}
+.img-hover-zoom .expired {
+  filter: grayscale(75%);
+}
+.img-hover-zoom .expired:hover {
+  filter: grayscale(0%);
+}
+.img-hover-zoom .image {
+  transition: transform 300ms, filter 200ms ease-in-out;
+}
+.img-hover-zoom:hover .image {
+  transform: scale(1.5);
+}
+
+/*# sourceMappingURL=card-effect.css.map */

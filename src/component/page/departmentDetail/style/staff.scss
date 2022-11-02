@@ -1,0 +1,54 @@
+@import '../../../style/variable';;
+.staff
+{
+  background-color:var(--primary-white-blue-color);
+  padding:0 6%;
+  //z-index: -2;
+  position: relative;
+
+  .staff-layout
+  {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    //grid-template-rows:1fr 1fr;
+    gap:2em;
+    padding-bottom: 5rem;
+    //display:flex;
+    //flex-wrap: wrap;
+    //gap:1.5em;
+  }
+}
+@media (max-width:$breakpoint-desktop)
+{
+  .staff
+  {
+    .staff-layout
+    {
+      gap:2vw;
+    }
+  }
+}
+@media (max-width:$breakpoint-laptop-s)
+{
+  .staff
+  {
+    .staff-layout
+    {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+@media (max-width:$breakpoint-table-s)
+{
+  .staff
+  {
+    background-color:var(--primary-text-color);
+
+    .staff-layout
+    {
+      display:flex;
+      flex-wrap: wrap;
+    }
+  }
+
+}

@@ -1,0 +1,401 @@
+{
+  "contactSection":
+  {
+    "number": "096 328 4995",
+    "page": "facebook.com/BEFERUPP"
+  },
+  "introSection": {
+    "title": "Automation & Supply Chain Systems",
+    "description":"Automation and Supply Chain Systems is a branch of Engineering that deals with automation and digital manufacturing. The supply chain systems engineering is also introduced to modernize manufacturing processes and optimize the whole supply chain systems.",
+    "backgroundImg":"departmentSection/ascs/department_Image.jpg"
+  },
+  "outlineSection": {
+    "title": "Undergraduate Degree\nCurriculum \nOutline",
+    "description": "Telecommunication and Electronics Engineering intergrats two technologies including Telecommunication technology and Eelectronics teachnology. Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable, propagating electromangetic wave (wireless) or light signal, base on the fundamental of electricity and electronics. Electronics technology focuses on a design of intergrated circuit with components such as diode, transistor, resistor, capacitor, sensors and other components in order to control eletron flow (electricity). Our department provides quality education for students to be able to design system and devices in both technologies to sovle social problems, to be able to conduct research, and to be able to continue to pursuit graduate studies. With our curriculum, students will be able to do group work effectively with leadership and entrepreneurship. After graduate from our program, students are qualified to work in mobile operation companies, Internet service providing companies, TV / Radio Stations, Airports/seaports, factories, and publics/private institutions."
+  },
+  "outlineListSection": [
+    {
+      "img": "departmentSection/ascs/image-outline-3.jpg",
+      "title":"Department \n Vision",
+      "summary": "    To enhance and advance students’ knowledge, skills, and leadership in the field of automation and supply chain systems so that they are capable of integrating and ready to work in regional and global markets."
+    },
+    {
+      "img": "departmentSection/ascs/image-outline-2.jpg",
+      "title":"Honours \nBachelor Degree",
+      "summary": "Bio-Engineering/Biotechnology is a branch of engineering that deals with chemical and biological processes used to develop and make products and practices used in Medical and Health application, Food and Agro industry, Agriculture and Environment.",
+      "link": "ascsd/undergraduate"
+    },
+    {
+      "img": "departmentSection/ascs/image-outline-5.jpg",
+      "title": "Our Partnership",
+      "summary": "The ASCSE was established by partnership with the Sirindhorn International Institute of Cambodia (SIIT), Thammasat University (TU), Thailand to create the 2+2 Bachelor’s degree (International Program)."
+    }
+  ],
+
+  "subNavbarSection": [
+    {
+      "title": "Overview"
+    },
+    {
+      "title": "Job Prospects"
+    },
+    {
+      "title": ""
+    },
+    {
+      "title": ""
+    },
+    {
+      "title": ""
+    },
+    {
+      "title": "Academic staff"
+    }
+  ],
+  "studyProgramSection": {
+    "title": "Everything you need to learn",
+    "program": [
+      {
+        "img": "departmentSection/teed/teed-program.png",
+        "title": "program 1",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 2",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 3",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 4",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      }
+    ]
+  },
+  "jobSection": {
+    "title": "Job Prospects",
+    "job": [
+
+      {
+        "label": "Consultants in automation and SCM",
+        "description": "An expert at improving a company's supply chain as well as effectively overcoming supply chain challenges."
+      },
+      {
+        "label": "Engineers in automation manufacturing ",
+        "description": "They planning, implementation, and monitoring technology that used to improve, streamline and automate a manufacturing process."
+      },
+      {
+        "label": " Engineer in digital manufacturing\n",
+        "description": "Helps manufacturing companies improve productivity in planning and production processes."
+      },
+      {
+        "label": "Logistic engineer and manager",
+        "description": "Review and design logistics operations to improve companies' operational efficiency and reduce costs."
+      },
+      {
+        "label": "Production engineer and manager",
+        "description": "Manages the planning and designing of methods to improve or enhance existing programs."
+      },
+      {
+        "label": "Researchers in automation and SCM",
+        "description": " field of study to encompass construct definition, identification of the field's central issues, and establishment of its conceptual boundaries. "
+      },
+      {
+        "label": "Warehouse engineer and manager",
+        "description": "Designs and develops systems for the maintenance of the business's data warehouse, ETL processes, and business intelligence."
+      }
+
+    ],
+    "icon": "departmentSection/ascs/department-job-icon.png"
+  },
+  "eventLinkSection": {
+    "title": "Collaboration &  Opportunities",
+    "description": "Based on knowledges which are provided by IT Engineering department, graduates can work as Designer/Developer of Computer & Mobile  Software, Database System Analyst/Developer, Network Engineer, and Game Developer.",
+    "buttonLabel": "Checkout for event & opportunities"
+  },
+  "researchSection": {
+    "title": "Project & Research",
+    "research": [
+      {
+        "title": "Growth optimization of Haematococcus pluvialis for astaxanthin and algal powder supplements",
+        "description": "We expect to isolate various microalgal species that potentially produce astaxanthin and other valuable sources of nutrition. We also expect to identify novel species of bacteria that grow associated with microalgae and explore their influence on microalgal cultivation. The optimal growth condition, mutagenesis, and astaxanthin synthesis that will be discovered in this study will play an important protocol and fundamental knowledge toward the future development for large-scale production. Finally, these results will be published in the local or international journal.",
+        "img": "research/research-0.jpg"
+      },
+      {
+        "title": "Development of probiotic fermented vegetables in Cambodia and their effect on immunue system in vitro",
+        "description": "We highly expect that via this project, we could isolate and characterize potential LAB from many vegetables fermented food to use as a starter for traditional Cambodian fermented food. Moreover, through this significant project, we hope to establish acceptable formula to transform the production of tradition fermented vegetable from family scale to proper packaging that meet the standard safety for the food level. This research outcome will also serve as literature reference for young researcher to develop their future research and cooperation with private company will be happened for the bring the final products to the local or oversea market in near future. Lastly, 1 article will be published in the peer review journal.",
+        "img": "research/research-2.jpg"
+      }
+    ],
+    "buttonLabel": "Checkout other more project"
+  },
+  "evaluationSection": {
+    "title": "Evaluation & Graduation",
+    "description": "The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table": [
+      {
+        "score": "80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      },
+      {
+        "score": "80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      },
+      {
+        "score": "80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      },
+      {
+        "score": "80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      },
+      {
+        "score": "80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      }
+    ]
+  },
+  "curriculumSection": {
+    "title": "Curriculum",
+    "description": "The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "curriculum": [
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      }
+    ]
+  },
+  "staffSection": {
+    "title": "Academic staff",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+    "staff": [
+      {
+        "name": "Dr. Tieng Kimseng",
+        "img": "placeholder/profile.webp",
+        "role": "Program Coordinator",
+        "email": "kimsengtieng@gmail.com",
+        "bio": "He received his Ph.D. in Knowledge Science from the Japan Advanced Institute of Science and Technology (JAIST), Japan. He received master’s degree of Engineering in Logistics and Supply Chain Systems Engineering from the Sirindhorn International Institute of Technology (SIIT), Thammasat University. His research lies in the area of Business simulation, supply chain optimization, human resource management and knowledge management. He has published his research in the Asian Journal of Technology Innovation; International Journal of Knowledge Management Studies; International Journal of Management Practices; Journal of Open Innovation: Technology, Market, and Complexity; Engineering Management Journal, Panyapiwat Journal, Thailand Statistician Journal; and Sustainability."
+      },
+      {
+        "name": "Dr. Liv Yi",
+        "img": "placeholder/profile.webp",
+        "role": "Full-time Lecturer",
+        "email": "livyiibe@gmail.com",
+        "bio": "He received his Master of Science in Mechanics of Materials and Structures in 2013. In 2017, he graduated with his PhD from the University of Girona in Spain. His research focused on understanding low velocity impact on unconventional laminated composite materials, and their compression behavior by means of Mechanical Testing and Finite Element Modelling. The aim was to guide the design of new laminates with better performance for aerospace applications. Before joining MISTI, he worked in the Department of Industrial and Mechanical Engineering at the Institute of Technology of Cambodia (ITC). He taught Materials Science, Introduction to Computer Programming with Matlab, and Structural Analysis. He was also the head of Mechanical Testing Laboratory and led a Laboratory-Based Education (LBE) team. In addition, he mentored and guided students to gain experiences in practical engineering and research projects funded by private companies and JICA."
+      },
+      {
+        "name": "Dr. To Dara",
+        "img": "placeholder/profile.webp",
+        "role": "Full-time Lecturer",
+        "email": "to.dara.to@gmail.com ",
+        "bio": "He received his Master in Mechanical Engineering from the Institut Teknologi Bandung (ITB) from Indonesia in 2013. In 2017, he graduated with his PhD from the YOKOHAMA National University (YNU), Research center: National Institute for Material Science (NIMS), Japan. Until 2020, he worked as a lecturer at the Institute of Technology of Cambodia. Role or Position: Full-time lecturer at the ASCSE."
+      }
+
+    ]
+  },
+  "studentProjectSection": {
+    "title": "Recent Student Project",
+    "project": [
+      {
+        "title": "Sericin Liquid Soap",
+        "studentName": "Lyna Aong",
+        "img": "research/student-project.png",
+        "description": "Silk cocoon is natural biopolymer that composed of proteins like fibroin and sericin. Due to sericin provide many benefits such as antioxidant, moisturizer, UV protection, coagulant, chemo-protective and nutrient, we create liquid soap."
+      }
+    ]
+  }
+}

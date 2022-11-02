@@ -1,0 +1,478 @@
+{
+  "trackListSection":
+  {
+    "department": "track-label-teed",
+    "img": "icon/png/teed/teed-track.png",
+    "trackList":
+    [
+      {
+        "trackLabel":"Coursework",
+        "trackDescription":"is for students who would like to conduct coursework and final project."
+      },
+      {
+        "trackLabel":"Research Thesis",
+        "trackDescription":"is for outstanding student who would like to conduct their research project under the supervision of BE faculty members."
+      },
+      {
+        "trackLabel":"Extended Training",
+        "trackDescription": "is designed for students who would like to participate in a long training period (for the entire semester) under a co-operative training program with companies or organizations."
+      }
+
+    ],
+    "note":"To improve student’s soft skill (communication, teamwork and leadership), the students are required to conduct a minimum 6 weeks internship at a standard company or organization during their vacation time of the third year or before.  "
+  },
+  "admissionSection":
+  {
+    "img": "departmentSection/general/graduate/enroll-te.png",
+    "description": "",
+    "list":
+    [
+      "Math Rank: A - E",
+      "Physic Rank: A - E"
+    ]
+  },
+  "sectionBanner":
+  {
+    "title": "TeleCommunication & electronics engineering",
+    "subTitle": "Bachelor Degree \n",
+    "imgUrl": "departmentSection/teed/teed-b-1.jpg"
+  },
+  "sectionIntro": {
+    "img": "departmentSection/teed/teed-department-side-banner.jpg",
+    "header": "Introduction",
+    "summary": "\tTelecommunication and Electronics Engineering integrates two technologies including Telecommunication technology and Electrical technology. Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable, propagating electromagnetic wave (wireless) or light signal, base on the fundamental of electricity and electronics. Electronics technology focuses on a design of integrated circuit with components such as diode, transistor, resistor, capacitor, sensors and other components in order to control electron flow (electricity). Our department provides quality education for students to be able to design system and devices in both technologies to solve social problems, to be able to conduct research, and to be able to continue to pursuit graduate studies. With our curriculum, students will be able to do group work effectively with leadership and entrepreneurship. After graduate from our program, students are qualified to work in mobile operation companies, Internet service providing companies, TV / Radio Stations, Airports/seaports, factories, and public/private institutions.",
+    "additionalInfor":
+    {
+      "jobInfor": {
+        "img": "icon/skill/tee-logical-thinking.png",
+
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "header": "Job Prospects",
+        "list":
+        [
+          "Electrical Engineer",
+          "Telecommunication Engineer",
+          "broadcasting Engineering",
+          "Computer Network Administrator",
+          "Telecommunication and Electronics System Manager"
+        ]
+      },
+
+      "researchInfor":{
+        "description": "Research knowledge which are provided by IT Engineering department",
+        "header": "Research",
+        "img": "icon/skill/tee-telecommunications.png",
+        "list":
+        [
+          "Wireless communication systems",
+          "Electronics and Electromagnetic signal systems",
+          "Telephone communication system",
+          "Satellite system",
+          "Development of electronic devices",
+          "Intelligent system",
+          "Security System"
+        ]
+      },
+      "skillInfor":
+      {
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "softSkill":
+        {
+          "header": "Soft Skill",
+          "list":
+          [
+            "Presentation",
+            "Communication",
+            "Teamwork",
+            "Time Management"
+          ]
+        },
+        "hardSkill":
+        {
+          "header": "Hard Skill",
+          "list":
+          [
+            "Problem-Solving",
+            "Analytical skills",
+            "Computer software and hardware knowledge",
+            "Software, web, and mobile development",
+            "Programming Language",
+            "Game development",
+            "Data Analytics"
+          ]
+        }
+      }
+    }
+  },
+
+  "evaluationSection": {
+    "color": "var(--tee-primary-color)",
+    "accentColor":"#f1816c",
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+      "letter": "E = Fail"
+    }
+    ]
+  },
+  "curriculumSection": {
+    "color": "var(--tee-primary-color)",
+    "accentColor":"#f1816c",
+    "colorSet": ["#f1816c","#f06a5c","#f05a52"],
+    "title": "Curriculum",
+    "description":"The curriculum is designed education in the principles of TE Engineering and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "Mathematics I",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Chemistry",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Physics",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Fundamental of Computer",
+            "credit": "2",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "ICT for development",
+            "credit": "1",
+            "time": "(1.5-0)"
+          },
+          {
+            "subject": "Academic skill",
+            "credit": "1",
+            "time": "(1.5-0)"
+          },
+          {
+            "subject": "General English I",
+            "credit": "4",
+            "time": "(6-0)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Mathematics II",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Biology",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Technical Drawing",
+            "credit": "3",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Computer Programming",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Introduction to statistics",
+            "credit": "2",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Introduction to Electrical Engineering",
+            "credit": "1",
+            "time": "(1.5-0)"
+          },
+          {
+            "subject": "General English II",
+            "credit": "4",
+            "time": "(6-0)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "Advance Programming I",
+            "credit": "3",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Algorithm and Data Structure I",
+            "credit": "2",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Circuit Theory I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Mathematic III",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Probability and Statistics",
+            "credit": "3",
+            "time": "(2-1.5)"
+          },
+          {
+            "subject": "Digital Theory",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-0)"
+          },
+          {
+            "subject": "General English III",
+            "credit": "4",
+            "time": "(4-0)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Advance Programming II",
+            "credit": "3",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Algorithm and Data Structure II",
+            "credit": "2",
+            "time": "(2-0)"
+          },
+          {
+            "subject": "Communication Engineering",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Circuit Theory II",
+            "credit": "4",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Advance Mathematic",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Signal and System I",
+            "credit": "2",
+            "time": "(2-0)"
+          },
+          {
+            "subject": "Electromagnetic Theory I",
+            "credit": "3",
+            "time": "(2-0)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-0)"
+          },
+          {
+            "subject": "General English IV",
+            "credit": "4",
+            "time": "(4-0)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "Network Engineering I",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Electromagnetic Theory II",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Electronic Engineering I",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Project Mamagment",
+            "credit": "3",
+            "time": "(1.5-0)"
+          },
+          {
+            "subject": "Signal and System II",
+            "credit": "2",
+            "time": "(2-0)"
+          },
+          {
+            "subject": "Antenna Design I",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Data Communication I",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Practicum",
+            "credit": "1",
+            "time": "(0-1.5)"
+          },
+          {
+            "subject": "General English V",
+            "credit": "4",
+            "time": "(4-0)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Network Engineering II",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Antenna Design II",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Electronic Engineering II",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Data Communicaiton II",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Control Engineering",
+            "credit": "3",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Microprocessor",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Practicum",
+            "credit": "1",
+            "time": "(0-0)"
+          },
+          {
+            "subject": "General English VI",
+            "credit": "4",
+            "time": "(4-0)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "Telecommunication Systems",
+            "credit": "4",
+            "time": "(3-2)"
+          },
+          {
+            "subject": "RF Environment Analysis",
+            "credit": "3",
+            "time": "(2-3)"
+          },
+          {
+            "subject": "Radar System",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Fiber Optic Communications",
+            "credit": "3",
+            "time": "(1.5-2)"
+          },
+          {
+            "subject": "Artificial intelligence",
+            "credit": "3",
+            "time": "(1.5-1.5)"
+          },
+          {
+            "subject": "Summer Internship I ( At Least 30 days)",
+            "credit": "1.5",
+            "time": "(0-0)"
+          },
+          {
+            "subject": "Project",
+            "credit": "1",
+            "time": "(0-1.5)"
+          }
+          
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Microware Engineerng",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Business Management and Entrepreneurship",
+            "credit": "2",
+            "time": "(2-0)"
+          },
+          {
+            "subject": "Engineering in Humenities and Social Science",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Final Project",
+            "credit": "5",
+            "time": "(0-0)"
+          }
+        ]
+      }
+    ]}
+}

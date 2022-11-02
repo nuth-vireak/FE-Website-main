@@ -1,0 +1,89 @@
+@import "../../../style/variable";
+@media screen and (max-width:$breakpoint-desktop)
+{
+    .activity
+    {
+      .activity-label
+      {
+        .catalog
+        {
+          font-size:1.5vw;
+        }
+        .title
+        {
+          font-size: 2.25vw;
+        }
+        .description
+        {
+          font-size: 1vw;
+        }
+      }
+    }
+}
+@media screen and (max-width:$breakpoint-laptop-s)
+{
+  .activity
+  {
+    .activity-label
+    {
+      .catalog
+      {
+        font-size:.75em;
+      }
+      .title
+      {
+        font-size: 1.75em;
+      }
+      .description
+      {
+        font-size: .75em;
+      }
+    }
+  }
+}
+
+@media screen and (max-width:$breakpoint-table-m)
+{
+  .activity
+  {
+   .activity-label
+   {
+     //left:10%;
+     //right:10%;
+   }
+  }
+}
+
+@media screen and (max-width: $breakpoint-table-s)
+{
+  .activity
+  {
+    flex: 0 0 100%;
+    width: 100%;
+    min-height: 250px;
+
+  }
+  .activity:nth-child(odd),
+  .activity:nth-child(even)
+  {
+    padding:unset;
+  }
+
+  .last-activity
+  {
+    .addGradient
+    {
+      background: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.8) 90%);
+    }
+    .activity-label
+    {
+      all:unset;
+      position: absolute;
+      bottom: 5%;
+      left: 10%;
+      right: 10%;
+      color: white;
+      text-align: center;
+    }
+  }
+}

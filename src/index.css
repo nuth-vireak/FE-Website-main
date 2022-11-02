@@ -1,0 +1,57 @@
+:root
+{
+  --navbar-item-color:rgba(245,245,245,0.75);
+  --primary-text-color: #ffffff;
+  --primary-grey-text-color: #495057;
+
+  --primary-dark-high-text-color:#262626;
+  --primary-dark-medium-text-color:#262626;
+  --primary-dark-low-text-color:#4C4C4C;
+
+  --primary-blue-brigh-text-color:#0098C4;
+  --primary-blue-medium-text-color: #0070ad;
+
+
+  --primary-white-blue-color: #f5f6f9;
+  --primary-background-color: #2c85d2;
+
+
+  --primary-font: 'Roboto', sans-serif;
+  --header-font:'Roboto Condensed', sans-seri;
+  --content-header-font:'Fjalla One', sans-serif;
+  --header-khmer-font:'Koulen', cursive;
+
+  --khmer-battambang-font:'Battambang', cursive;
+  --khmer-Chenla-font: 'Chenla', cursive;
+  /*--navbar-before-scroll:linear-gradient(180deg, #00171F 0%, rgba(0, 23, 31, 0) 100%);*/
+  --navbar-before-scroll:linear-gradient(180deg, #00171F 0%, rgba(255, 255, 255, 0) 100%);
+  --navbar-after-scroll: #014164;
+
+  --font-quicksand:'Quicksand', sans-serif;;
+  --font-manrope:'Manrope', sans-serif;
+  --font-merriwearther: 'Merriweather Sans', sans-serif;
+  --font-lato:'Lato', sans-serif;
+
+  --bio-primary-color:#66bb6a;
+  --tee-primary-color:#f05951;
+  --ite-primary-color: #00bcd4;
+  --ascs-primary-color: #009688;
+
+  --ascent-white-color:#f6f6f7
+}
+
+html {
+
+}
+
+body {
+
+  font-family: var(--primary-font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

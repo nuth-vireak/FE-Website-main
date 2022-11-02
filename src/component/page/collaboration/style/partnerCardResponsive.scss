@@ -1,0 +1,58 @@
+@import '../../../style/variable';
+
+@media (max-width: $breakpoint-laptop-s)
+{
+  .PartnerCard
+  {
+    display:block;
+    text-align: center;
+    .logo
+    {
+      margin-bottom:1.5em;
+    }
+    .information
+    {
+      margin-left: unset;
+      .description
+      {
+        font-size:0.85em;
+      }
+      .visitButton
+      {
+        width: unset;
+        font-size: 0.85em;
+        padding: 0.6em 2.2em
+      }
+    }
+  }
+}
+
+@media (max-width: $breakpoint-table-s)
+{
+  .PartnerCard
+  {
+    padding: 1.25em;
+    display:block;
+    text-align: center;
+    .logo
+    {
+      object-fit:cover;
+      max-width: unset;
+      padding: unset;
+      width:100%;
+      margin-bottom:unset;
+    }
+    .information
+    {
+      display:none;
+      .description
+      {
+
+      }
+      .visitButton
+      {
+
+      }
+    }
+  }
+}

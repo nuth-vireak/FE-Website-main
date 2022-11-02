@@ -1,0 +1,515 @@
+{
+  "sectionBanner": {
+    "title": "Automation & Supply Chain Systems",
+    "subTitle": "Honours Bachelor Degree",
+    "imgUrl": "departmentSection/ascs/image-outline-2.jpg"
+  },
+
+  "admissionSection": {
+    "header": "Special requirement for the degree",
+    "img": "departmentSection/general/graduate/icon-admission-ascs.png",
+    "description":"Students from the department of ASCSE would be awarded the Bachelor of Engineering in Automation and Supply Chain Systems Engineering when they complete the following criteria",
+    "list":
+    [
+      "Have finished an internship at the industry in the third year and second semester.",
+      "Have finished writing their thesis and successfully defended their work in front of the supervisor and committee members in the fourth year.",
+      "Have finished all 168 credits within the limited period.",
+      "Students need to finish their bachelor’s degree within five years.",
+      "Students must pass all course requirements with 50% of total score."
+    ]
+  },
+
+  "trackListSection": {
+    "department": "track-label-bio",
+    "img": "icon/png/ascs/ascs-track.png",
+    "trackList":
+    [
+      {
+        "trackLabel":"Coursework",
+        "trackDescription":"is for students who would like to conduct coursework and final project."
+      },
+      {
+        "trackLabel":"Research Thesis",
+        "trackDescription":"is for outstanding student who would like to conduct their research project under the supervision of BE faculty members."
+      },
+      {
+        "trackLabel":"Extended Training",
+        "trackDescription": "is designed for students who would like to participate in a long training period (for the entire semester) under a co-operative training program with companies or organizations."
+      }
+
+    ],
+    "note":"To improve student’s soft skill (communication, teamwork and leadership), the students are required to conduct a minimum 6 weeks internship at a standard company or organization during their vacation time of the third year or before.  "
+  },
+
+  "sectionIntro": {
+    "img": "departmentSection/bio/bio-graduate-img-1.jpg",
+    "header": "Introduction",
+    "summary": "Automation and Supply Chain Systems Engineering (ASCSE) was established in 2022 to deals with automation and digital manufacturing. The supply chain systems engineering is also introduced to modernize manufacturing processes and optimize the whole supply chain systems. The ASCSE was established to comply with the rectangular strategies of the Royal Government of Cambodia (RGC) to develop human resources and digitalize manufacturing toward Industry 4.0. Also, digitalize manufacturing by integrating with supply chain systems optimization is the presence and the future for the economic development of Cambodia.\n\nThe ASCSE was established by partnership with the Sirindhorn International Institute of Cambodia (SIIT), Thammasat University (TU), Thailand to create the 2+2 Bachelor’s degree (International Program). In the 2+2 bachelor’s degree program, the students need to study Years 1 and 2 at ASCSE, RUPP, Cambodia. Then students can choose to whether they want to study Years 3 and 4 at RUPP or transfer their credits to study Years 3 and 4 at the school of Management Technology (MT), SIIT, TU, Thailand.\n\nThe ASCSE is a branch of engineering that deal with automation and supply chain operation processes. The ASCSE is designed with the following purposes:",
+    "additionalInfor":
+    {
+        "listInfo":
+        [
+          "Build students’ foundation in designing, operating, evaluating, and improving the automation and supply chain systems",
+          "Enhance their analytical and problem-solving skills",
+          "Develop them to become a graduated student with high intellectual capabilities"
+        ],
+        "endStatement":"The graduated students are ready for high demand of human resources in local and international markets. Also, the ASCSE will provide course training to related industrial partners in the field of automation and supply chain systems. This allows the industry partners to upgrade their capabilities to effectively and efficiently manage the operations and supply chain systems.",
+        "jobInfor": {
+          "description": "The Department provides its graduates a competitive edge in the labor market. We prepare high quality professionals to work as",
+
+          "header": "Job Prospects",
+          "list":
+          [
+            "Agro-industry & Food specialist",
+            "Biomolecular Engineer",
+            "Biological Materials Engineer",
+            "Professor or Research of Biotechnology",
+            "Research or Biological Laboratory Specialist"
+          ]
+        },
+      "researchInfor":{
+          "description": "Research knowledge which are provided by Bio Engineering department",
+          "header": "Research",
+          "img": "icon/png/bio/bio-chemistry.png",
+          "list":
+          [
+            "Biological Molecular Medicine",
+            "Agro-Industrial Biotechnology",
+            "Biotechnology to create biological devices"
+          ]
+        }
+
+    }
+  },
+
+  "evaluationSection": {
+    "color": "#4db6ac",
+    "accentColor": "#b2dfdb",
+    "title":"Evaluation & Graduation",
+    "description":"Assessment of study will be performed at the end of each semester. Evaluation will be shown as the Grade Point Average (GPA) (4.00 scale) and the Cumulative Grade Point Average (4.00 scale).",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+      "letter": "E = Fail"
+    }
+    ]
+  },
+
+  "curriculumSection": {
+    "color": "#4db6ac",
+    "accentColor": "#80cbc4",
+    "colorSet":["#4db6ac","#26a69a","#009688"],
+    "title": "Curriculum",
+    "description":"The curriculum is designed education in the principles of Automation & Supply Chain Systems Engineering and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "Introduction to Computers and Programming",
+            "credit": "3",
+            "time": "(2-3-4)"
+          },
+          {
+            "subject": "General Science I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Environment Science I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Principles of Liner Algebra",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Self-development and Management ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Critical Thinking, Reading, and Writing ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Creativity and Communication  ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Digital Skill and Problem Solving ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Introduction to Supply Chain Management",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "General Science II ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Probability for Technologies ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Communication Skills in English",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Civic Engagement ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Innovation and Entrepreneurial Mindset",
+            "credit": "3",
+            "time": "(3-0-6)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "Introduction of Algorithms and Object-oriented Programming ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Introduction to Management Science ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Statistical Methods for Managers ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Calculus for Technologists I ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "English Language Structures ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Principles of Business and Management ",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Economics for Technologists ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Database Systems and Applications",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Organizational Behavior",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Statistics for Data Science and Empirical Study",
+            "credit": "3",
+            "time": "3(2-2-5)"
+          },
+          {
+            "subject": "Calculus for Technologists II ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Communications in Business",
+            "credit": "3",
+            "time": "(2-1-3)"
+          },
+          {
+            "subject": "Fundamentals of Financial and Managerial Accounting ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Principles of Marketing",
+            "credit": "3",
+            "time": "(3-0-6)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "Mobile App Development ",
+            "credit": "3",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Procurement and Supply Chain Management",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Management System Optimization",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Statics & Mechanics of Materials",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Engineering Drawing and Computer-Aided Design (CAD)",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Electricity and Electronics for Robotics ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Project Management",
+            "credit": "3",
+            "time": "(2-0-4)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Business Intelligences and Analytics ",
+            "credit": "3",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Inventory and Production Management ",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Warehouse Management ",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Kinematics and Dynamics of Machine Elements and Mechanisms ",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Introduction to Robotics ",
+            "credit": "3",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Engineering Mechanical Design ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Seminar with Logistics and Supply Chain Management ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Industry Internship ",
+            "credit": "6",
+            "time": "(0-0-8)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "Digital Business and E-commerce Management ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Business Process Simulation ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Retail Management ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Retail Management ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Industrial Automation & Control ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Computer-Aided Engineering and Manufacturing ",
+            "credit": "3",
+            "time": "(3-0-4)"
+          },
+          {
+            "subject": "Senior Project I ",
+            "credit": "3",
+            "time": "(3-0-6)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "International Business and Trade",
+            "credit": "3",
+            "time": "(3,0,6)"
+          },
+          {
+            "subject": "Fundamental of Manufacturing ",
+            "credit": "3",
+            "time": "(3,0,6)"
+          },
+          {
+            "subject": "Senior project II ",
+            "credit": "9",
+            "time": "(3-3-12)"
+          }
+        ]
+      }
+    ]},
+
+  "goalSection": [
+    {
+      "list": [
+        "To produce high qualified undergraduate students who have comprehensive, advanced, and up-to-date knowledge for analytic and problem-solving skills.",
+        "To enhance students’ capabilities in designing, operating, evaluating, and improving automation and supply chain systems in manufacturing and service industries.",
+        "To empower students to integrate technologies to identify bottlenecks of and propose solutions for local SMEs.",
+        "To promote academic and industrial collaboration (e.g., internship and exchange programs) with local and international partners.",
+        "To be a leading international department in the field of automation and supply chain systems."
+      ],
+      "label": "mission",
+      "img": "icon/skill/mission.png"
+    },
+    {
+      "list": [
+        "The strategy is to integrate groups in adjoining areas of fundamental science as well as in technology to create an interdisciplinary research environment within the faculty of engineering, in collaborations with the Faculty of Science and with the Department of International Business Management.",
+        "The strategic objective of the Department of Automation and Supply Chain Systems Engineering at RUPP is to establish a general competence students, which are capable of integrating automation engineering and supply chain management. Graduated student should be automate manufacturing processing"
+      ],
+      "label": "strategy",
+      "img": "icon/skill/strategy.png"
+    }
+  ],
+
+  "benefitSection": [
+    {
+      "img": "",
+      "label": "Studying with foreign professor"
+    },{
+      "img": "",
+      "label": "Industrial track Thesis or Research track Thesis"
+    },{
+      "img": "",
+      "label": "Full scholarship Tuition fee and salary"
+    }
+  ],
+
+  "skillInfor":
+  {
+    "description": "The ASCSE Program intends to prepare students for life-long achievement through both education in the principles of ASCSE and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "softSkill":
+    {
+      "header": "soft skill",
+      "list":
+      [
+        "Problem solving",
+        "Knowledge Management",
+        "Business & Management",
+        "Supply chain Management",
+        "English Proficiency"
+      ],
+      "icon":
+      [
+        "icon/skill/solve.png",
+        "icon/skill/manager.png",
+        "icon/skill/planning.png",
+        "icon/skill/supply-chain-management.png",
+        "icon/skill/linguistics.png"
+      ]
+    },
+
+    "hardSkill":
+    {
+      "header": "",
+      "list":
+      [
+        "Industrial Automation & Engineering",
+        "Supply chain operation",
+        "Business analytic & optimization",
+        "Digital manufacturing",
+        "Programming & Business development"
+      ],
+      "icon":
+      [
+        "icon/skill/engineering.png",
+        "icon/skill/supply-chain.png",
+        "icon/skill/analytics.png",
+        "icon/skill/manufacturing.png",
+        "icon/skill/coding.png"
+      ]
+    }
+  },
+  "partnerSection":
+  {
+    "label": "Partner & Support by",
+    "logo": [
+      "logo/university/ascs-m-partner-2.png",
+      "logo/university/ascs-m-partner-1.png",
+      "logo/university/bio-m-partner-4.png"
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+    "BIO-Engineering" : {
+        "Year I" : {
+            "Semester I" : {
+                "Courses" : [
+                    {
+                        "title" : "English I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Biology I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Statistics",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Mathematics II",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Technical Drawing",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Computer Programming",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Electrical Engineering",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Philosophy",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Sociology",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    }                    
+                ]
+            },
+
+            "Semester II" : {
+                "Courses" : [
+                    {
+                        "title" : "English I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Biology I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Statistics",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Mathematics II",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Technical Drawing",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Computer Programming",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Electrical Engineering",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Philosophy",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Sociology",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    }                    
+                ]
+            }
+        },
+
+        "Year II" : {
+            "Semester I" : {
+                "Courses" : [
+                    {
+                        "title" : "English I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Biology I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Statistics",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Mathematics II",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Technical Drawing",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Computer Programming",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Electrical Engineering",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Philosophy",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Sociology",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    }                    
+                ]
+            },
+
+            "Semester II" : {
+                "Courses" : [
+                    {
+                        "title" : "English I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Biology I",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Statistics",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Mathematics II",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Technical Drawing",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Computer Programming",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Introduction to Electrical Engineering",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Philosophy",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    },
+                    {
+                        "title" : "Sociology",
+                        "credit" : 3,
+                        "hour/week": "",
+                        "lecture-lab": ""
+                    }                    
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+.fade-enter {
+  opacity: 0;
+<<<<<<< HEAD
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+=======
+  z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+}
+
+.sectionTest-1 {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+  height: 100vh;
+  background-color: #01A5FF;
+}
+
+.sectionTest-2 {
+  height: 100vh;
+  background-color: #93C36D;
+}
+
+.sectionTest-3 {
+  height: 100vh;
+  background-color: #f05951;
+}
+
+.loading {
+  background-color: #014164;
+  height: 100vh;
+>>>>>>> e9261f893f7bca8572c20a97933c13c2f909daed
+}
+
+/*# sourceMappingURL=main.css.map */

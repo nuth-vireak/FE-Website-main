@@ -1,0 +1,152 @@
+@media screen and (max-width: 1599px) {
+  .banner-description .content-title,
+.banner-description .about-title {
+    font-size: 5.5vw;
+  }
+  .banner-description .content-description {
+    font-size: 1.4vw;
+  }
+  .banner-description .about-description {
+    font-size: 1.2vw;
+  }
+
+  .about-department .right-banner-style {
+    transform: translate(-50%, -40%);
+  }
+
+  .scroll-down-icon {
+    font-size: 4rem;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .about-department .background {
+    height: 60vh;
+  }
+
+  .banner-description .content-title,
+.banner-description .about-title {
+    font-size: 5.5vw;
+  }
+  .banner-description .content-description {
+    font-size: 14px;
+  }
+  .banner-description .about-description {
+    font-size: 12px;
+  }
+  .banner-description .content-title,
+.banner-description .content-description {
+    margin-bottom: 1rem;
+  }
+
+  .scroll-down-icon {
+    font-size: 3rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .DepartmentDetail .button-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  .DepartmentDetail .about-department .background,
+.DepartmentDetail .content-undergraduate .background,
+.DepartmentDetail .content-graduate .background {
+    display: none;
+  }
+  .DepartmentDetail .about-department .background-mobile,
+.DepartmentDetail .content-undergraduate .background-mobile,
+.DepartmentDetail .content-graduate .background-mobile {
+    display: block;
+  }
+  .DepartmentDetail .about-department .banner-description .content-description,
+.DepartmentDetail .about-department .banner-description .about-description,
+.DepartmentDetail .content-undergraduate .banner-description .content-description,
+.DepartmentDetail .content-undergraduate .banner-description .about-description,
+.DepartmentDetail .content-graduate .banner-description .content-description,
+.DepartmentDetail .content-graduate .banner-description .about-description {
+    font-size: 1rem;
+  }
+  .DepartmentDetail .about-department {
+    height: 100vh;
+  }
+  .DepartmentDetail .about-department .about-title {
+    font-size: 4rem;
+  }
+  .DepartmentDetail .content-undergraduate {
+    height: 800px;
+  }
+  .DepartmentDetail .content-undergraduate .background-mobile {
+    padding-top: 10%;
+    padding-left: 6%;
+    padding-right: 6%;
+    height: unset;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .DepartmentDetail .content-undergraduate .banner-description {
+    transform: unset;
+    top: unset;
+    bottom: 10%;
+  }
+  .DepartmentDetail .content-undergraduate .banner-description .content-title {
+    letter-spacing: 0.015em;
+    font-size: 3rem;
+    margin-bottom: 0.25em;
+  }
+  .DepartmentDetail .content-undergraduate .banner-description .content-description {
+    margin-bottom: 1.5em;
+  }
+  .DepartmentDetail .content-graduate {
+    height: 700px;
+  }
+  .DepartmentDetail .content-graduate .banner-description {
+    transform: unset;
+    top: unset;
+    bottom: 10%;
+  }
+  .DepartmentDetail .content-graduate .banner-description .content-title {
+    font-size: 4rem;
+    margin-bottom: 0.25em;
+    letter-spacing: 0.1em;
+  }
+  .DepartmentDetail .content-graduate .banner-description .content-description {
+    margin-bottom: 1.5rem;
+  }
+  .DepartmentDetail .background {
+    height: 100vh;
+  }
+  .DepartmentDetail .banner-description {
+    transform: translate(0, -40%);
+    left: 6%;
+    right: 6%;
+    padding: 0 6%;
+  }
+
+  .scroll-down-icon {
+    font-size: 5rem;
+  }
+}
+@media screen and (max-width: 480px) {
+  .DepartmentDetail .about-department .about-title {
+    font-size: 3rem;
+  }
+  .DepartmentDetail .content-undergraduate {
+    height: 700px;
+  }
+  .DepartmentDetail .content-undergraduate .background-mobile {
+    width: 100%;
+  }
+  .DepartmentDetail .content-undergraduate .banner-description .content-title {
+    font-size: 2.5rem;
+  }
+  .DepartmentDetail .content-graduate {
+    padding: 0;
+  }
+  .DepartmentDetail .content-graduate .background-mobile {
+    border-radius: unset;
+  }
+  .DepartmentDetail .content-graduate .banner-description .content-title {
+    font-size: 3rem;
+  }
+}
+
+/*# sourceMappingURL=contentResponsive.css.map */

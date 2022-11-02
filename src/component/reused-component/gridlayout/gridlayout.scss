@@ -1,0 +1,347 @@
+.news-event-list
+{
+  //margin-top:3rem;
+}
+.label-wrapper
+{
+  //display: flex;
+}
+.event-list
+{
+  background-color:whitesmoke;
+}
+
+.add-margin-left
+{
+  margin-left:1%
+}
+.menu-label
+{
+  position: relative;
+  margin-top:1em;
+  margin-bottom: 1em;
+  //margin-left: 7%;
+
+  display:inline-block;
+
+
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: bold;
+  //font-size:2.3rem;
+  font-size:2.4rem;
+  //margin-top: 3rem;
+}
+.menu-label::before
+{
+  //bottom:-.15em;
+  top:-.2em;
+  position: absolute;
+  content: " ";
+  display:block;
+  width:20%;
+  height: 4px;
+  //background: linear-gradient(90deg, #01A5FF 0%, #EA0FD4 100%);
+  //background: linear-gradient(90deg, #01A5FF 30%, #014164 100%);
+  background:#01A5FF;
+}
+
+.menu-layout
+{
+  //justify-content: space-between;
+  //max-width: none;
+  //max-width: 1600px;
+  //margin: 0 auto;
+  //margin-top: 2rem;
+  padding: 0 6%;
+
+  .menu-list
+  {
+    //justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    .list-card
+    {
+      //position: relative;
+      //margin-bottom: 9.0rem;
+      //padding-right: 2.8rem;
+      //padding-left: 2.8rem;
+
+      flex: 0 0 33.33%;
+      width:33%;
+
+      padding:0 1vw;
+      //box-sizing: border-box;
+      margin-bottom:2.8rem;
+
+      //width:100%;
+      //padding: 0 1.2rem;
+      //padding: 0 1vw;
+      //flex-grow: .33;
+
+      //position:relative;
+
+
+      .card-image
+      {
+        //content: "";
+        //display: block;
+        //padding-top: 66.666%;
+        //width: 100%;
+        position:relative;
+
+
+        .image
+        {
+          width:100%;
+        }
+
+      }
+      .card-article
+      {
+        margin-top: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .title-link
+        {
+          text-decoration: none
+        }
+
+        .article-title,
+        .department-title
+        {
+          //font-family: "Oswald";
+          //font-size: 3.4rem;
+          //font-weight: 500;
+          //line-height: 1.3;
+
+          //font-size: 1.8vw;
+          //line-height: 37px;
+
+          white-space: pre-wrap;      /* CSS3 */
+          white-space: -moz-pre-wrap; /* Firefox */
+          white-space: -o-pre-wrap;   /* Opera 7 */
+          word-wrap: break-word;      /* IE */
+
+          margin: 0;
+          font-family: var(--header-font);
+          font-weight: bold;
+          font-size: 2rem;
+          text-transform: uppercase;
+
+          color:var(--primary-dark-medium-text-color)
+        }
+        .article-date
+        {
+          //margin-top: 2.6rem;
+          //{
+          //  font-size: 1.7rem;
+          //  margin-top: 0.5em;
+          //}
+          //position:absolute;
+          //font-size: 1.3vw;
+
+          //margin: 0;
+          font-family: var(--header-font);
+          text-transform: uppercase;
+          font-size: 1.5rem;
+          margin-top:1vw;
+          color:var(--primary-dark-low-text-color)
+        }
+
+        .article-detail
+        {
+          margin-top:1.5em;
+          .article-section
+          {
+            margin-bottom: 2em;
+
+            .article-label
+            {
+              text-transform: uppercase;
+              font-family: var(--header-font);
+              font-size:1.3rem;
+
+            }
+            .article-list-point
+            {
+              margin-top:.5em;
+              .point
+              {
+                text-transform: capitalize;
+                font-size: 1rem;
+                color:var(--primary-dark-low-text-color)
+              }
+              }
+            }
+          }
+
+      }
+    }
+  }
+}
+
+
+@media screen and(max-width:1599px)
+{
+  .menu-label
+  {
+    font-size:2.4vw
+  }
+  .menu-layout
+  {
+    .menu-list
+    {
+      .list-card
+      {
+        //flex: 0 0 33.33%;
+        //width:33%;
+        .card-image
+        {
+
+        }
+        .card-article
+        {
+          margin-top: 1.7vw;
+
+          .article-title,
+
+          {
+            font-size: 1.8vw;
+            //height:80px;
+          }
+          .department-title
+          {
+            font-size: 2vw;
+
+          }
+          .article-date
+          {
+            font-size: 1.3vw;
+          }
+        }
+      }
+    }
+  }
+}@media screen and(max-width:992px)
+{
+  .news-event-list
+  {
+    //margin-top:2rem;
+  }
+  .menu-label
+  {
+    font-size: 1.6em;
+    //margin-top: 2rem;
+  }
+  .menu-layout
+  {
+    //margin-top: 1rem;
+    .menu-list
+    {
+      .list-card
+      {
+        flex: 0 0 50%;
+        width:50%;
+        .card-image
+        {
+
+        }
+        .card-article
+        {
+          margin-top: 1rem;
+
+          .article-title,
+          .department-title
+          {
+            font-size: 1.3rem;
+            //height:80px;
+          }
+          .article-date
+          {
+            font-size: 1rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and(max-width:768px)
+{
+
+  .menu-layout
+  {
+
+    .menu-list
+    {
+      .list-card
+      {
+        flex: 0 0 50%;
+        width:50%;
+        margin-bottom: 1.5rem;
+        .card-image
+        {
+
+        }
+        .card-article
+        {
+          .article-title
+          {
+            //font-size: 1rem;
+            //height:80px;
+          }
+          .article-date
+          {
+            font-size: .8rem;
+          }
+
+        }
+      }
+    }
+  }
+}
+
+
+@media screen and (max-width:572px)
+{
+  .menu-layout
+  {
+    .menu-list
+    {
+      .list-card
+      {
+        flex: 0 0 100%;
+        width:100%;
+        margin-bottom: 1.3rem;
+        .card-image
+        {
+
+        }
+        .card-article
+        {
+          .article-title
+          {
+
+            //height:80px;
+          }
+          .department-title
+          {
+            font-size: 1.7rem;
+          }
+          .article-date
+          {
+            //font-size: .6rem;
+          }
+        }
+      }
+    }
+  }
+}

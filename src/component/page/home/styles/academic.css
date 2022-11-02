@@ -1,0 +1,70 @@
+.academic-container {
+  background-color: #014164;
+  padding: 50px 0 50px 0;
+}
+.academic-container .body {
+  width: 90%;
+  margin: auto;
+}
+.academic-container .body .header {
+  color: #ffffff;
+}
+.academic-container .body .header hr {
+  transition: all 1s;
+  background-color: #ffffff;
+  height: 3px;
+  opacity: 0;
+  width: 0px;
+}
+.academic-container .body .main img {
+  height: 45vh;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .academic-container .body .main img {
+    height: 260px;
+    object-fit: cover;
+  }
+}
+@media (min-width: 769px) and (max-width: 1199px) {
+  .academic-container .body .main img {
+    height: 310px;
+    object-fit: cover;
+  }
+}
+.academic-container .body .main .undergraduated:hover {
+  cursor: pointer;
+}
+.academic-container .body .main .graduated:hover {
+  cursor: pointer;
+}
+.academic-container .body .main .desc {
+  background-color: #ffffff;
+  padding: 1em 1em 0.4em 1em;
+}
+.academic-container .body .main .desc h5 {
+  font-weight: bolder;
+}
+.academic-container .body .main .desc p {
+  font-size: 1em;
+}
+@media (max-width: 768px) {
+  .academic-container .body .main .desc p {
+    font-size: 12.87px;
+  }
+}
+@media (min-width: 768.5px) and (max-width: 992px) {
+  .academic-container .body .main .desc p {
+    font-size: 13px;
+  }
+}
+.academic-container .body .view-more-btn {
+  background-color: #f5f6f9a4;
+  font-weight: bold;
+  color: #014164;
+}
+.academic-container .body .view-more-btn:hover {
+  background-color: #F5F6F9;
+}
+
+/*# sourceMappingURL=academic.css.map */

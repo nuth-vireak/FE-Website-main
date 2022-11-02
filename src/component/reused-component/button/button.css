@@ -1,0 +1,49 @@
+.button {
+  border-radius: 2px;
+  transition: all 150ms ease-in-out;
+  border: none;
+  outline: none;
+  background: var(--primary-blue-brigh-text-color);
+}
+.button:hover {
+  background: var(--primary-text-color);
+}
+.button:hover .button-label {
+  color: var(--primary-blue-brigh-text-color);
+}
+.button .button-label {
+  margin: 0;
+  padding: 0.5em 1.7em;
+  text-transform: uppercase;
+  font-family: var(--header-font);
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2rem;
+  color: var(--primary-text-color);
+}
+
+@media screen and (max-width: 1599px) {
+  .button .button-label {
+    font-size: 1rem;
+  }
+}
+.outline-button:hover {
+  outline: solid var(--primary-blue-brigh-text-color);
+}
+
+@media screen and (max-width: 1024px) {
+  .button .button-label {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .button {
+    max-height: 40px;
+  }
+  .button .button-label {
+    font-size: 1rem;
+    padding: 0.25rem 1em;
+  }
+}
+
+/*# sourceMappingURL=button.css.map */

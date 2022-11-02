@@ -1,0 +1,10 @@
+.teedDepartment .tted-outline-section {
+  background-color: var(--primary-text-color);
+  color: #1B1B1B;
+  gap: clamp(0.5em, 2vw, 5em);
+}
+.teedDepartment .program-section .program-card .description {
+  color: #5A5A5A;
+}
+
+/*# sourceMappingURL=teed_department_style.css.map */

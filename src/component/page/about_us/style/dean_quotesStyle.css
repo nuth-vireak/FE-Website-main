@@ -1,0 +1,45 @@
+.DeanQuotes {
+  padding-top: 2%;
+}
+.DeanQuotes .quotes_box {
+  padding: 0;
+}
+.DeanQuotes .quotes_box .quotes_box_row {
+  background-color: #eeeeee;
+}
+.DeanQuotes .quotes_box .quotes_box_row .dean_img_col {
+  padding: 0;
+}
+.DeanQuotes .quotes_box .quotes_box_row .dean_img_col .dean_img {
+  width: 80%;
+}
+@media (max-width: 800px) {
+  .DeanQuotes .quotes_box .quotes_box_row .dean_img_col .dean_img {
+    width: 100%;
+  }
+}
+.DeanQuotes .quotes_box .quotes_box_row .quotes_text_col .quotes_icon_row .quotes_icon {
+  width: 70px;
+  object-fit: contain;
+  margin: 5%;
+}
+.DeanQuotes .quotes_box .quotes_box_row .quotes_text_col .quotes_row .quotes_text {
+  padding-left: 20%;
+  padding-right: 20%;
+  color: #6F6D6D;
+  font-family: var(--primary-font);
+}
+.DeanQuotes .quotes_box .quotes_box_row .quotes_text_col .dean_name {
+  padding-top: 20%;
+  padding-right: 10%;
+  text-align: end;
+  color: #6F6D6D;
+  font-family: var(--header-font);
+}
+@media (max-width: 800px) {
+  .DeanQuotes .quotes_box .quotes_box_row .quotes_text_col .dean_name {
+    padding-bottom: 5%;
+  }
+}
+
+/*# sourceMappingURL=dean_quotesStyle.css.map */

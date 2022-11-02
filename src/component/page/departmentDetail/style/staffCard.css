@@ -1,0 +1,79 @@
+.staff-profile {
+  display: flex;
+  background-color: var(--primary-text-color);
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  transition: transform 300ms ease-in-out 150ms;
+}
+.staff-profile .profile-image {
+  border-radius: 1.5rem;
+  padding: 1rem;
+  object-fit: cover;
+  max-width: 250px;
+  max-height: 350px;
+}
+.staff-profile .profile-image-mobile {
+  display: none;
+}
+.staff-profile .profile-information {
+  position: relative;
+  padding: 1rem 2rem 1rem 1rem;
+}
+.staff-profile .profile-information .profile-name {
+  color: #0091C8;
+  font-size: 2.25rem;
+  text-transform: capitalize;
+}
+.staff-profile .profile-information .text-style {
+  font-size: 1.15em;
+  text-transform: capitalize;
+  color: var(--primary-dark-low-text-color);
+}
+.staff-profile .profile-information .profile-role {
+  font-weight: 500;
+  margin-bottom: 0.3em;
+  line-height: 21px;
+}
+.staff-profile .profile-information .profile-email {
+  line-height: 21px;
+  position: relative;
+  font-weight: normal;
+  margin-bottom: 1.7em;
+}
+.staff-profile .profile-information .profile-email::after {
+  top: 2.25em;
+  position: absolute;
+  content: " ";
+  display: block;
+  background: #41B4E6;
+  width: 20%;
+  max-width: 100px;
+  height: 2px;
+}
+.staff-profile .profile-information .profile-description {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #5A5A5A;
+}
+.staff-profile .profile-information .toggle-readMore-label {
+  position: absolute;
+  bottom: 1.5rem;
+  right: 2rem;
+}
+.staff-profile .profile-information .toggle-readMore-label .readMore {
+  color: var(--primary-blue-medium-text-color);
+  margin-bottom: 0;
+  font-weight: 500;
+}
+.staff-profile .profile-information .toggle-readMore-label .readMore:hover {
+  cursor: pointer;
+}
+
+@media (max-height: 350px) {
+  .staff-profile .profile-description {
+    background-color: black;
+  }
+}
+
+/*# sourceMappingURL=staffCard.css.map */

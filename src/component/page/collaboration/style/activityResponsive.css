@@ -1,0 +1,49 @@
+@media screen and (max-width: 1599px) {
+  .activity .activity-label .catalog {
+    font-size: 1.5vw;
+  }
+  .activity .activity-label .title {
+    font-size: 2.25vw;
+  }
+  .activity .activity-label .description {
+    font-size: 1vw;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .activity .activity-label .catalog {
+    font-size: 0.75em;
+  }
+  .activity .activity-label .title {
+    font-size: 1.75em;
+  }
+  .activity .activity-label .description {
+    font-size: 0.75em;
+  }
+}
+@media screen and (max-width: 768px) {
+  .activity {
+    flex: 0 0 100%;
+    width: 100%;
+    min-height: 250px;
+  }
+
+  .activity:nth-child(odd),
+.activity:nth-child(even) {
+    padding: unset;
+  }
+
+  .last-activity .addGradient {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 40%, rgba(0, 0, 0, 0.8) 90%);
+  }
+  .last-activity .activity-label {
+    all: unset;
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    right: 10%;
+    color: white;
+    text-align: center;
+  }
+}
+
+/*# sourceMappingURL=activityResponsive.css.map */

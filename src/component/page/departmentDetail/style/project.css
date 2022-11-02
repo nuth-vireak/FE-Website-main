@@ -1,0 +1,41 @@
+.project {
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 5%;
+}
+.project .test {
+  z-index: -1;
+  position: absolute;
+  right: 11%;
+  width: 32.5%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(232, 245, 253, 0) 0%, #E8F5FD 13.02%, #E8F5FD 48.96%, #E8F5FD 85.94%, rgba(232, 245, 253, 0) 100%);
+}
+.project .project-layout {
+  display: grid;
+  gap: 2em;
+  grid-template-columns: repeat(2, 1fr);
+}
+.project .align-button {
+  margin-top: 2.5rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .project .project-layout {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .project .test {
+    all: unset;
+  }
+}
+@media screen and (max-width: 480px) {
+  .project .project-layout {
+    gap: unset;
+  }
+  .project .align-button {
+    margin-top: unset;
+  }
+}
+
+/*# sourceMappingURL=project.css.map */

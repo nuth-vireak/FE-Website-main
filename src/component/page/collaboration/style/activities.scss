@@ -1,0 +1,41 @@
+@import "../../../style/variable";
+
+.align-text
+{
+  text-align: center;
+  width:100%;
+  padding:0 20%;
+  margin-top:5em;
+  margin-bottom:3em;
+
+  .middle-header
+  {
+    display:none;
+    text-transform: uppercase;
+    font-family: var(--header-font);
+    font-weight: bold;
+    font-size:3.5rem;
+    color:var(--primary-dark-medium-text-color)
+  }
+  .subtitle
+  {
+    display:none;
+
+    font-size:1.5rem;
+    color:var(--primary-dark-low-text-color);
+    //font-weight:500;
+  }
+}
+.activities-wrapper
+{
+  @include paddingContent;
+  padding-bottom: 2%;
+}
+.activities
+{
+  //padding:0 6%;
+  display:flex;
+  flex-wrap: wrap;
+
+
+}

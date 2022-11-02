@@ -1,0 +1,90 @@
+.upcoming-event-board {
+  padding: 50px 0 100px 0;
+  background-color: #ffffff;
+}
+.upcoming-event-board .main {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.upcoming-event-board .main .header {
+  display: flex;
+  justify-content: space-between;
+}
+.upcoming-event-board .main .header .view-more-btn {
+  transition: background-color 0.25s linear;
+  background-position: right bottom;
+  background-color: #f5f6f9;
+  font-size: 1em;
+  font-weight: 600;
+  color: #a6a1a1;
+}
+.upcoming-event-board .main .header .view-more-btn .fa-arrow-right {
+  color: #a6a1a1;
+}
+.upcoming-event-board .main .header .view-more-btn:hover {
+  background-color: #014164;
+  color: #ffffff;
+}
+.upcoming-event-board .main .header .view-more-btn:hover .fa-arrow-right {
+  color: #ffffff;
+}
+.upcoming-event-board .main .header h1 {
+  margin: 0 0 0.2em 0;
+  color: #014164;
+}
+.upcoming-event-board .main .header hr {
+  background-color: #014164 !important;
+  width: 100px;
+  margin: 0 0 2.125rem 0;
+}
+.upcoming-event-board .main .header button {
+  background-color: #ffffff;
+  color: #014164;
+  font-weight: 600;
+  border-radius: 0;
+}
+.upcoming-event-board .main .header hr {
+  opacity: 100%;
+  background-color: #ffffff;
+  height: 3px;
+  margin-top: 0;
+}
+.upcoming-event-board .main .content {
+  margin: 0;
+}
+.upcoming-event-board .main .content img {
+  width: 100%;
+}
+.upcoming-event-board .main .content img:hover {
+  opacity: 75%;
+  cursor: pointer;
+}
+.upcoming-event-board .main .content .event {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: flex-end;
+}
+.upcoming-event-board .main .content .quick-preview-event {
+  position: absolute;
+  z-index: 1;
+  background: #0070AD;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 0.7rem 1rem 0.7rem 1rem;
+}
+.upcoming-event-board .main .content .quick-preview-event h6 {
+  margin: 0;
+}
+@media (max-width: 768px) {
+  .upcoming-event-board .main .content .quick-preview-event h6 {
+    font-size: 0.7rem;
+  }
+}
+.upcoming-event-board .main .view-all-btn {
+  color: #ffffff;
+  font-size: large;
+}
+
+/*# sourceMappingURL=upcoming_events_styles.css.map */

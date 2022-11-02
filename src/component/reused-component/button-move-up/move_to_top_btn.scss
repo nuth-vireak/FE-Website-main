@@ -1,0 +1,76 @@
+.display-button
+{
+    visibility: visible;
+    opacity: 1;
+    //transition: visibility 0s linear 300ms, opacity 300ms;
+}
+.close-button
+{
+    visibility: hidden;
+    opacity: 0;
+    //transition: visibility 0s linear 300ms, opacity 300ms;
+}
+.btn-to-top
+{
+
+    border-radius: 90px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 4px 12px;
+
+    //background: linear-gradient(90deg,  #014164 0%, #01598a 100%);
+
+    background-color: #014164;
+    color: white;
+
+    padding: 1.25em;
+    margin: 1rem;
+
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+
+    z-index: 999;
+
+    transition: all 300ms ease-in-out,transform 50ms ease-in-out;
+
+
+    .button-icon
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 26px;
+        height: 26px;
+        //font-size:2.5em;
+    }
+    @media (max-width: 768px) {
+        padding: 1rem;
+    }
+
+
+    &:active
+    {
+        //padding:1em;
+        //transition: .3s;
+        transform: scale(.8,.8);
+        background: #fff;
+        .button-icon
+        {
+            color:#01375A;
+        }
+
+    }
+
+}
+
+@media (hover: hover) and (pointer: fine)  {
+    .btn-to-top:hover {
+        cursor: pointer;
+
+        background: #fff;
+        .button-icon
+        {
+            color:#01375A;
+        }
+    }
+}

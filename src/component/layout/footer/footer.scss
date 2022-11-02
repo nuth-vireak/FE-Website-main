@@ -1,0 +1,80 @@
+.footer-none-display
+{
+  display: none;
+}
+.footer {
+  color: #ffffff;
+  li {
+    list-style-type: none;
+  }
+  .footer-content {
+    //background-color: #014164;
+    background: linear-gradient(0deg, #001F30 0%, #014164 100%);
+    //background: linear-gradient(90deg, #001F30 0%, #014164 100%);
+
+    margin: 0;
+    padding: 1.5em 2em 1em 2em;
+    //padding: max(2rem, 5%) 7%;
+    ul {
+      .footer-icon {
+        height: 24px;
+      }
+      .follow_us{
+        height: 36px;
+        &:hover
+        {
+          cursor: pointer;
+        }
+      }
+    }
+
+  }
+  .copyright {
+    background-color: #01375a;
+    margin: 0;
+    padding: 30px;
+  }
+  .footer-address
+  {
+    //text-transform: uppercase;
+    color:var(--navbar-item-color);
+    text-decoration: none;
+    font-weight: 500;
+    font-size:14px;
+  }
+  .rupp-logo
+  {
+    margin-top: 1em;
+    //text-align: center;
+    padding: unset;
+    .logo
+    {
+      max-height: 45px;
+    }
+    .title
+    {
+      margin-left: .5em;
+      max-height: 45px;
+    }
+  }
+}
+.underline
+{
+  margin: 1.5em 0 1em 0;
+  //display: none;
+}
+.copyrightName
+{
+  text-align: center;
+  padding-left: 0;
+
+  @media (max-width: 576px)
+  {
+    text-align: start;
+  }
+  p
+  {
+    margin-bottom: unset;
+    font-weight: 500;
+  }
+}

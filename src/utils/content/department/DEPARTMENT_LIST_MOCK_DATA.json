@@ -1,0 +1,81 @@
+[
+  {
+    "label": "Automation & Supply Chain Systems Engineering Department",
+    "link": "department/ascsd",
+    "imgUrl":"departmentSection/ascs/department_Image.jpg",
+    "skillList": [
+
+      "Automation Engineering & Supply chain operation",
+      "Business analytic and optimization",
+      "Industrial automation",
+      "Digital manufacturing",
+      "Programming and business development"
+    ],
+    "researchList":
+    [
+    ]
+  },
+  {
+    "label": "Bio-Engineering Biotechnology Department",
+
+    "link": "department/biod",
+    "imgUrl":"departmentSection/bio/bio-card-img.jpg",
+    "skillList": [
+      "Agro-industry & Food specialist",
+      "Biomolecular Engineer",
+      "Biological Materials Engineer",
+      "Professor or Research of Biotechnology",
+      "Research or Biological Laboratory Specialist"
+    ],
+    "researchList":
+    [
+      "Biological Molecular Medicine",
+      "Agro-Industrial Biotechnology",
+      "Biotechnology to create biological devices"
+    ]
+  },
+  {
+    "label": "Information Technology Engineering Department",
+    "imgUrl":"departmentSection/ite/ite-i-3.jpg",
+    "link": "department/ited",
+    "skillList": [
+      "Agile Software Developer",
+      "Agile Mobile & Web Developer",
+      "Fullstack Developer",
+      "Network & Security Engineer",
+      "Data Engineer"
+    ],
+    "researchList":
+    [
+      "Artificial Intelligence",
+      "Data Mining",
+      "Image Processing and Analysis",
+      "Computer Vision",
+      "3D Modeling and Computer Graphics",
+      "Natural Language Processing",
+      "ICT for Education"
+    ]
+  },
+  {
+    "label": "Telecommunications & electronic engineering Department",
+    "link": "department/teed",
+    "imgUrl":"departmentSection/teed/ai.jpg",
+    "skillList": [
+
+      "Electronic Engineer",
+      "Telecommunication Engineer",
+      "broadcasting Engineering",
+      "Computer Network Administrator",
+      "Telecommunication and Electronics System Manager"
+    ],
+    "researchList":
+    [
+      "Electronics and Electromagnetic signal systems",
+      "Telephone communication system",
+      "Satellite system",
+      "Development of electronic devices",
+      "Intelligent system",
+      "Security System"
+    ]
+  }
+]

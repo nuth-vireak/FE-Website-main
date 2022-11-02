@@ -1,0 +1,165 @@
+$small: 767px;
+$xs-small: 576px;
+
+@keyframes player {
+  100% {transform: rotateZ(360deg)}
+}
+
+.thumbnail {
+  aspect-ratio: 16/9;
+  width: 100%; // 640px
+  object-fit: cover;
+}
+
+.video-title {
+  h4
+  {
+    font-size: clamp(1em,1.5vw,1.3em);
+    font-family: var(--font-quicksand);
+    font-weight: 700;
+    margin-bottom:.25em;
+
+    @media (max-width: 768px)
+    {
+      font-size: clamp(.75em,1vw,1em);
+    }
+  }
+  small
+  {
+    font-size: clamp(.75em,1vw,1em);
+    font-family: var(--font-quicksand);
+    font-weight: 500;
+    @media (max-width: 768px)
+    {
+      font-size: clamp(.5em,.75vw,.75em);
+    }
+  }
+  //@media (max-width: $xs-small) {
+  //  h4 {
+  //    font-size: 1rem;
+  //  }
+  //}
+}
+
+.video-outline {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(1, 65, 100, 0) 20%, #014164 100%);
+
+  @media(max-width: 480px)
+  {
+    background: linear-gradient(180deg, rgba(1, 65, 100, 0) 0%, #014164 100%);
+
+  }
+
+}
+
+.outline-wrapper
+{
+  position:absolute;
+  bottom: 6%;
+  left: 5%;
+  right: 5%;
+
+  align-items: center;
+  display: flex;
+}
+
+.video
+{
+  width:100%;
+  display: flex;
+  position: relative;
+  &:hover {
+    cursor: pointer;
+    .play-btn {
+      .fa-play-circle
+      {
+        color: #0172b0;
+        animation-name: player;
+        animation-duration: 1s;
+      }
+    }
+    .video-title
+    {
+      //text-shadow: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      text-shadow: 1px 1px 10px black;
+
+    }
+  }
+  .video-title {
+    top:50%;
+    left: 0;
+    color: white;
+    width: 100%;
+  }
+  .play-btn {
+    top:50%;
+    margin-right: .25em;
+    font-size: clamp(2em,3.5vw,3.5em);
+    height: fit-content;
+    .fa-play-circle {
+      color: #ffffff;
+      &:hover {
+        color: #014164;
+      }
+    }
+  }
+}
+
+.videoModal {
+  .modal-dialog {
+    max-width: inherit;
+    margin: auto;
+    padding: 0;
+    .modal-content {
+      height: fit-content;
+      background-color: transparent;
+      border: none;
+      width: 65%;
+      margin: auto;
+      @media (max-width: 768px) {
+        width: 95%;
+      }
+      @media (max-width: 1200px) {
+        width: 95%;
+      }
+      .modal-header {
+        border: none;
+        padding-left: 0;
+        padding-right: 0;
+        .btn-close {
+          background: none;
+          .fa-times {
+            color: #ffffff;
+            font-size: x-large;
+          }
+        }
+      }
+      .modal-body {
+        padding: 0;
+        @media (max-width: 1400px) {
+          iframe {
+            height: 70.8vh; // 450px 
+          }
+        }
+        @media (max-width: 1200px) {
+          iframe {
+            height: 40.8vh; // 450px 
+          }
+        }
+        @media (max-width: 992px) {
+          iframe {
+            height: 31.25rem; // 500px 
+          }
+        }
+        @media (max-width: $xs-small) and (orientation: portrait) {
+          iframe {
+            height: 33.8vh; // 215px
+          }
+        }
+      }
+    }
+  }
+}

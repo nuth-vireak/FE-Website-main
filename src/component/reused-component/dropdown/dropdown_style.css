@@ -1,0 +1,44 @@
+.Department-navbar {
+  margin-top: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.Department-navbar .header {
+  align-items: center;
+  height: fit-content;
+  padding: 25px;
+  background-color: rgba(1, 55, 90, 0.81);
+  color: white;
+}
+.Department-navbar .header .text-header {
+  font-size: 15px;
+  font-family: var(--content-header-font);
+  text-align: left;
+}
+.Department-navbar .header .ul-left {
+  text-align: left;
+}
+.Department-navbar .header .department_nav .topsubMenu {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Department-navbar .header .department_nav .col-nav {
+  border-left: solid 1px white;
+  padding-left: 50px;
+}
+.Department-navbar .header .department_nav .content-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: var(--header-font);
+}
+.Department-navbar .header .department_nav .text-link {
+  color: white;
+  text-decoration: none;
+  font-size: small;
+  font-family: var(--primary-font);
+}
+
+/*# sourceMappingURL=dropdown_style.css.map */

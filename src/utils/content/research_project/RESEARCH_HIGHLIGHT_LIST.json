@@ -1,0 +1,29 @@
+[
+  {
+    "order": 0,
+    "topic": "Growth optimization of Haematococcus pluvialis for astaxanthin and algal powder supplements",
+    "imageUrl": "research/research-0.jpg",
+    "category": "Research",
+    "department": "BIO",
+    "author":"(Dr. Hangsak Huy)",
+    "publish": "Jan 22, 2022"
+  },
+  {
+    "order": 6,
+    "topic": "Gastromod: An interactive tool for 3D Gastropod Modeling",
+    "imageUrl": "research/research-6.jpg",
+    "category": "Research",
+    "department": "ITE",
+    "author":"Mr KimAng Kheang, Mr Sokchea Kor, and Dr Sovila Srun",
+    "publish": "June, 2018"
+  },
+  {
+    "order": 4,
+    "topic": "ASEAN FACTORI 4.0 PROJECT",
+    "imageUrl": "research/research-4.jpg",
+    "category": "Project",
+    "department": "TEE",
+    "author":"TEED",
+    "publish": "Jan 10, 2022"
+  }
+]

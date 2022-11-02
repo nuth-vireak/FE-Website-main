@@ -1,0 +1,63 @@
+{
+  "name": "fe-website-dev",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "2.11.6",
+    "@testing-library/jest-dom": "5.14.1",
+    "@testing-library/react": "11.2.7",
+    "@testing-library/user-event": "12.8.3",
+    "bootstrap": "5.1.3",
+    "node-sass": "6.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-error-overlay": "6.0.9",
+    "react-intersection-observer": "8.32.1",
+    "react-modal": "3.14.3",
+    "react-redux": "7.2.6",
+    "react-router-dom": "5.3.0",
+    "react-scripts": "4.0.3",
+    "react-scroll-into-view": "1.10.1",
+    "react-scroll-into-view-if-needed": "3.0.1",
+    "react-sticky": "6.0.3",
+    "react-table": "7.7.0",
+    "react-transition-group": "4.4.2",
+    "scroll-into-view-if-needed": "2.2.28",
+    "smooth-scroll-into-view-if-needed": "1.1.32",
+    "styled-components": "5.3.1",
+    "web-vitals": "1.1.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-error-overlay": "6.0.9"
+  },
+  "resolutions": {
+    "react-error-overlay": "6.0.9"
+  }
+}

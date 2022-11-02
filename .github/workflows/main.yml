@@ -1,0 +1,28 @@
+on: 
+  push:
+    branches: [ production ]
+name:  Deploy website on push
+jobs:
+  web-deploy:
+    name:  Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get latest code
+      uses: actions/checkout@v2
+      with:
+        ref: 'production'
+    - name: Install Env
+      uses: actions/setup-node@v1
+      with:
+        node-version: 16
+    - run: npm i 
+    - run: npm run build --if-present
+      env:
+        CI: false
+    - name: Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.2.0
+      with:
+        server: rupp.edu.kh
+        username: ferupp
+        password: Fe@2022!
+        local-dir: ./build/

@@ -1,0 +1,17 @@
+.breadcrumbnav {
+    margin-top: 2%;
+    background-color: #014164;
+    padding: 1% 6% 0% 6%;
+    color: rgb(255, 255, 255);
+    .navigation {
+        .breadcrumb {
+            justify-content: end;
+
+            a {
+                color: white;
+                text-decoration: none;
+            }
+            
+        }
+    }
+}

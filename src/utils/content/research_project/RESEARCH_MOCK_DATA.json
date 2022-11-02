@@ -1,0 +1,63 @@
+[
+  {
+    "topic": "Growth optimization of Haematococcus pluvialis for astaxanthin and algal powder supplements",
+    "imageUrl": "research/research-0.jpg",
+    "category": "Research",
+    "department": "BIO",
+    "author":"(Dr. Hangsak Huy)",
+    "publish": "Jan 22, 2022"
+  },
+  {
+
+    "topic": "Analyzing bioactive compounds of marine algae in developing of moisturizing, hypermimentation, and anti-aging cosmeceutical cream",
+    "imageUrl": "research/research-1.jpg",
+    "category": "Research",
+    "department": "BIO",
+    "author":"(Dr. Solida Longy)",
+    "publish": "Jan 22, 2022"
+  },
+  {
+
+    "topic": "Development of probiotic fermented vegetables in Cambodia and their effect on immunue system in vitro",
+    "imageUrl": "research/research-2.jpg",
+    "category": "Research",
+    "department": "BIO",
+    "author":"(Ms. Huoy Laingsun)",
+    "publish": "Jan 22, 2022"
+  },
+  {
+
+    "topic": "Watermelon variety improvement through conventional breeding and tissue culture.",
+    "imageUrl": "research/research-3.jpg",
+    "category": "Research",
+    "department": "BIO",
+    "author":"(Dr. Phat Phanna)",
+    "publish": "Jan 22, 2022"
+  },
+  {
+
+    "topic": "Asean factori 4.0 Project",
+    "imageUrl": "research/research-4.jpg",
+    "category": "Project",
+    "department": "TEE",
+    "author":"TEED",
+    "publish": "Jan 10, 2022"
+  },
+  {
+    "topic": "A New Model for Simulating and Evaluating Congestion Cause at Signalized Intersection",
+    "imageUrl": "research/research-5.jpg",
+    "category": "Research",
+    "department": "ITE",
+    "author":"Sokchea Kor and Susanne Krömker",
+    "publish": "Dec, 2019"
+  },
+  {
+    "topic": "Gastromod: An interactive tool for 3D Gastropod Modeling",
+    "imageUrl": "research/research-6.jpg",
+    "category": "Research",
+    "department": "ITE",
+    "author":"Mr KimAng Kheang, Mr Sokchea Kor, and Dr Sovila Srun",
+    "publish": "June, 2018"
+  }
+
+]

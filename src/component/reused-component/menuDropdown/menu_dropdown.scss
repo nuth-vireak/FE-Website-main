@@ -1,0 +1,223 @@
+@import '../../style/variable';
+.menu-dropdown
+{
+  display: flex;
+  flex-direction: column;
+
+  padding: 2.5% 0 2.5% 0;
+  //position: fixed;
+  top:104px;
+  left: 0;
+  right: 0;
+  width: 100%;
+  display:flex;
+  pointer-events: auto;
+  background-color: rgba(1, 55, 90,1);
+  text-align: start;
+  //transform-origin: top;
+  //transform: scale(1,0);
+
+  .no-decoration
+  {
+    text-decoration: none;
+  }
+  .uppercase-Text
+  {
+    text-transform: uppercase;
+  }
+
+  .menu-dropdown-list
+  {
+    //align-items: center;
+
+    margin-bottom:unset;
+    padding-left:unset;
+
+    display: flex;
+    width: 100%;
+
+    //justify-content: space-around;
+
+    list-style: none;
+
+
+    .menu-dropdown-item
+    {
+      flex: 0 0 33.33%;
+      width:33.33%;
+
+
+      transition: padding 250ms ease-in-out;
+
+      padding: 0 2.5rem;
+
+      //border-right: .5px solid gray;
+
+      border-right: 2px solid var(--navbar-item-color);
+
+      &:last-child
+     {
+        border-right: unset;
+     }
+
+    }
+
+    .menu-dropdown-item-unset
+    {
+      flex: unset;
+      width:unset;
+    }
+
+    .menu-dropdown-item-department
+    {
+      flex: 0 0 25%;
+      width:25%;
+    }
+
+    .dropdown-item-wrapper
+    {
+      .dropdown-item-header
+      {
+        white-space: break-spaces;
+
+        line-height: 1.2;
+        text-transform: capitalize;
+        transition:all 250ms ease-in-out;
+        color:var(--navbar-item-color);
+        font-size: 1.5rem;
+        font-family: var(--font-manrope);
+        font-weight: 800;
+
+        &:hover
+        {
+          color:var(--primary-text-color);
+        }
+      }
+      .dropdown-item-list
+      {
+        list-style-type: square;
+        //padding-left:.25em;
+        padding-left: 1.25em;
+
+        color:whitesmoke;
+        padding-top: 1.25rem;
+
+        .dropdown-item-link
+        {
+          //color: #262626;
+          //font-family: var(--font-manrope);
+          font-size:1.15rem;
+          .dropdown-item-link-title
+          {
+            font-family: var(--font-manrope);
+            font-weight: 500;
+            color:var(--navbar-item-color);
+            text-transform: capitalize;
+            transition: color 250ms ease-in-out;
+            &:hover
+            {
+              color:var(--primary-text-color);
+            }
+            //font-size: 1.15rem;
+            //&:hover
+            //{
+            //  color:whitesmoke;
+            //}
+          }
+        }
+      }
+    }
+  }
+
+  .menu-dropdown-list-grid
+  {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: clamp(1em,2vw,2em) 0;
+  }
+
+  .menu-dropdown-title
+  {
+    float: right;
+    padding-left:2%;
+    //padding-top: 2%;
+    padding-bottom: 1.5%;
+
+    transition: font-size 250ms ease-in-out;
+    //display: flex;
+    align-items: center;
+    margin-bottom:unset;
+    font-size:3em;
+    font-weight: bold;
+    font-family: var(--header-font);
+    color:var(--primary-text-color);
+  }
+}
+
+@media screen and (max-width:$breakpoint-desktop){
+  .menu-dropdown{
+    .menu-dropdown-list
+    {
+      .menu-dropdown-item
+      {
+        padding: 0 2rem;
+      }
+    }
+    .menu-dropdown-title
+    {
+      font-size:2.5em;
+    }
+  }
+}
+@media screen and (max-width:$breakpoint-laptop-m){
+  .menu-dropdown{
+
+    .menu-dropdown-list
+    {
+      .menu-dropdown-item
+      {
+        padding: 0 1.5rem;
+
+        .dropdown-item-wrapper{
+          .dropdown-item-header
+          {
+            font-size:1.25rem;
+          }
+        }
+        .dropdown-item-list
+        {
+          .dropdown-item-link{
+            font-size:1rem;
+
+          }
+        }
+      }
+    }
+    .menu-dropdown-title
+    {
+      font-size:2em;
+
+      //display:none;
+    }
+  }
+}
+
+@media screen and (max-width:$breakpoint-laptop-s){
+  .menu-dropdown{
+
+
+    .menu-dropdown-list
+    {
+      //justify-content:center;
+    }
+    .menu-dropdown-title
+    {
+      //display:none;
+    }
+  }
+}
+@media screen and (max-width:$breakpoint-table-m){
+  .menu-dropdown{
+    display:none
+  }
+}

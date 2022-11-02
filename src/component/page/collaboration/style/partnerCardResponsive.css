@@ -1,0 +1,39 @@
+@media (max-width: 1200px) {
+  .PartnerCard {
+    display: block;
+    text-align: center;
+  }
+  .PartnerCard .logo {
+    margin-bottom: 1.5em;
+  }
+  .PartnerCard .information {
+    margin-left: unset;
+  }
+  .PartnerCard .information .description {
+    font-size: 0.85em;
+  }
+  .PartnerCard .information .visitButton {
+    width: unset;
+    font-size: 0.85em;
+    padding: 0.6em 2.2em;
+  }
+}
+@media (max-width: 768px) {
+  .PartnerCard {
+    padding: 1.25em;
+    display: block;
+    text-align: center;
+  }
+  .PartnerCard .logo {
+    object-fit: cover;
+    max-width: unset;
+    padding: unset;
+    width: 100%;
+    margin-bottom: unset;
+  }
+  .PartnerCard .information {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=partnerCardResponsive.css.map */

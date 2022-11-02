@@ -1,0 +1,15 @@
+.content-template h1 {
+  font-weight: bolder;
+  font-family: var(--header-font);
+}
+.content-template p {
+  font-size: 1.375vw;
+  font-family: var(--primary-font);
+}
+@media (max-width: 768px) {
+  .content-template p {
+    font-size: 3vw;
+  }
+}
+
+/*# sourceMappingURL=carousel-content.css.map */

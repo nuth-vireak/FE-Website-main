@@ -1,0 +1,41 @@
+{
+    "general" : [
+        {
+            "question" : "How much does it cost to study at the Faculty of Engineering per year?",
+            "answer" : "There are 3 departments in the Faculty of Engineering, each of them cost 600$ per year."
+        }
+    ],
+    "bio" : [
+        {
+            "question" : "How many learning shifts do we have?",
+            "answer" : "For our department, we don't have shifts. We study in both the morning and afternoon."
+        },
+        {
+            "question" : "Where students be able to work after graduation?"
+        }
+    ],
+    "ite" : [
+        {
+            "question" : "The different between Information Technology Engineering(ITE) and Computer Science",
+            "answer" : "IT Engineering is more practical. We have some core course such as OS, Artificial Intelligence, Computer Graphics, Computer Security, Game Development, and Data ming. For sure, you will get job when you finish at our department."
+        },
+        {
+            "question" : "How many learning shifts do we have?",
+            "answer" : "There are two learning shifts for students to choose from, one in the morning and the other in the afternoon."
+        },
+        {
+            "question" : "Where students be able to work after graduation?",
+            "answer" : "Students can work as Web-developer, software-developer, app-developer, game-developer, Networking and Security engineer, Data engineer."
+        }
+    ],
+    "tee" : [
+        {
+            "question" : "Where students be able to work after graduation?",
+            "answer" : "Students can work at big network companies like (Smart, Cellcard, Ezecom) and Electronic industry Companies."
+        },
+        {
+            "question" : "How many learning shifts do we have?",
+            "answer" : "For our department, we don't have shifts. We study in both the morning and afternoon."
+        }
+    ]
+}

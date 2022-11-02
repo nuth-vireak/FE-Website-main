@@ -1,0 +1,22 @@
+.smallHeader {
+  position: relative;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  display: inline-block;
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.4rem;
+}
+.smallHeader::after {
+  top: -1rem;
+  position: absolute;
+  content: " ";
+  display: block;
+  width: 100px;
+  height: 10px;
+  background: var(--primary-blue-brigh-text-color);
+}
+
+/*# sourceMappingURL=smallHeader.css.map */

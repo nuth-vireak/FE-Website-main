@@ -1,0 +1,46 @@
+.Collaboration
+{
+    
+    .container-fluid{
+        width: 100%;
+        padding-left: 6%;
+        padding-right: 6%;
+        background-color: #EEEEEE;
+        padding-bottom: 10%;
+        .header
+        {
+            .title_collaboration
+            {
+            
+                padding-top: 2%;
+                padding-left: 0;
+                margin-bottom: 5%;
+      
+
+            }
+        }
+
+        .content
+        {
+            padding: 2%;
+            background-color: #01375A;
+            span
+            {
+                color: white;
+            }
+   
+        }
+
+        .collaborationImg
+        {
+            padding-top: 10%;
+            img.pic{
+                padding: 0%;
+                padding-bottom: 1%;
+            }
+       
+          
+        }
+    }
+
+}

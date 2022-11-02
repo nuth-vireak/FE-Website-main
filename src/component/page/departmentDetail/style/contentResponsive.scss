@@ -1,0 +1,252 @@
+@import '../../../style/variable';
+
+@mixin resetPosition
+{
+  transform: unset;
+  top: unset;
+  bottom: 10%;
+}
+
+@media screen and (max-width:$breakpoint-desktop)
+{
+
+  .banner-description
+  {
+    .content-title,
+    .about-title
+    {
+      font-size: 5.5vw;
+
+    }
+    .content-description
+    {
+      font-size:1.4vw;
+    }
+
+    .about-description
+    {
+      font-size: 1.2vw;
+    }
+  }
+
+  .about-department
+  {
+    .right-banner-style
+    {
+
+      transform: translate(-50%,-40%);
+    }
+  }
+
+  .scroll-down-icon
+  {
+    font-size: 4rem;
+  }
+}
+
+@media screen and (max-width:$breakpoint-table-m)
+{
+  .about-department
+  {
+    .background
+    {
+      height: 60vh;
+
+    }
+  }
+  .banner-description
+  {
+    .content-title,
+    .about-title
+    {
+      font-size: 5.5vw;
+
+    }
+    .content-description
+    {
+      font-size:14px;
+    }
+
+    .about-description
+    {
+      font-size: 12px
+    }
+    .content-title,
+    .content-description
+    {
+        margin-bottom: 1rem;
+    }
+  }
+  //.banner-description,
+  //.content-title
+  //{
+  //  margin-bottom: 1rem;
+  //}
+  .scroll-down-icon
+  {
+    font-size: 3rem;
+  }
+
+
+}
+
+@media screen and (max-width:$breakpoint-table-s)
+{
+  .DepartmentDetail
+  {
+    .button-wrapper
+    {
+      display: flex;
+      justify-content: center;
+    }
+
+    .about-department,
+    .content-undergraduate,
+    .content-graduate
+    {
+      .background
+      {
+        display:none;
+      }
+      .background-mobile
+      {
+        display:block;
+      }
+      .banner-description
+      {
+        .content-description,
+        .about-description
+        {
+          font-size:1rem;
+        }
+      }
+    }
+
+    .about-department
+    {
+      height: 100vh;
+        .about-title
+        {
+          font-size:4rem;
+        }
+    }
+
+    .content-undergraduate
+    {
+      height: 800px;
+
+      .background-mobile
+      {
+        padding-top:10%;
+        padding-left: 6%;
+        padding-right: 6%;
+        height:unset;
+        width:80%;
+        margin:0 auto;
+      }
+      .banner-description
+      {
+        @include resetPosition();
+        .content-title
+        {
+          letter-spacing: 0.015em;
+          font-size: 3rem;
+          margin-bottom: .25em;
+        }
+        .content-description
+        {
+          margin-bottom: 1.5em;
+        }
+      }
+    }
+
+    .content-graduate
+    {
+      height: 700px;
+
+
+      .banner-description
+      {
+        @include resetPosition();
+
+        .content-title
+        {
+          font-size: 4rem;
+          margin-bottom: .25em;
+          letter-spacing: 0.1em;
+        }
+        .content-description
+        {
+          margin-bottom:1.5rem;
+        }
+      }
+    }
+
+    .background
+    {
+      height: 100vh;
+    }
+
+    .banner-description
+    {
+      transform: translate(0, -40%);
+      left:6%;
+      right:6%;
+      padding: 0 6%;
+    }
+  }
+  .scroll-down-icon
+  {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width:$breakpoint-mobile)
+{
+  .DepartmentDetail
+  {
+    .about-department
+    {
+      .about-title
+      {
+        font-size:3rem;
+      }
+    }
+    .content-undergraduate
+    {
+      height: 700px;
+      .background-mobile
+      {
+        width:100%;
+      }
+      .banner-description
+      {
+        .content-title
+        {
+          font-size: 2.5rem;
+        }
+      }
+    }
+
+    .content-graduate
+    {
+      padding:0;
+      .background-mobile
+      {
+        border-radius: unset;
+      }
+
+      .banner-description
+      {
+        .content-title
+        {
+          font-size: 3rem;
+
+        }
+      }
+    }
+  }
+}
+
+
+

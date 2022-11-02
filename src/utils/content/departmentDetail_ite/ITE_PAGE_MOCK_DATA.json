@@ -1,0 +1,406 @@
+{
+  "contactSection":
+  {
+    "number": "096 689 4325",
+    "page": "facebook.com/itedferupp"
+  },
+  "introSection":
+  {
+    "title": "Information Technology Engineering",
+    "description":"Information engineering, also known as information technology engineering, information engineering methodology or data engineering, is a software engineering approach to designing and developing information systems",
+    "backgroundImg":"departmentSection/ite/ite-i-3.jpg"
+  },
+  "outlineSection":
+  {
+    "title":"Undergraduate Degree\nCurriculum \nOutline",
+    "description":"Telecommunication and Electronics Engineering intergrats two technologies including Telecommunication technology and Eelectronics teachnology. Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable, propagating electromangetic wave (wireless) or light signal, base on the fundamental of electricity and electronics. Electronics technology focuses on a design of intergrated circuit with components such as diode, transistor, resistor, capacitor, sensors and other components in order to control eletron flow (electricity). Our department provides quality education for students to be able to design system and devices in both technologies to sovle social problems, to be able to conduct research, and to be able to continue to pursuit graduate studies. With our curriculum, students will be able to do group work effectively with leadership and entrepreneurship. After graduate from our program, students are qualified to work in mobile operation companies, Internet service providing companies, TV / Radio Stations, Airports/seaports, factories, and publics/private institutions."
+  },
+  "outlineListSection":
+  [
+    {
+      "video": "7a4fqd-yW5Q",
+      "title":"Department\nVision",
+      "summary":"Bachelor of Information Technology Engineering program at FE is designed to provide high-quality Engineers in Information Technology in Cambodia and in regional."
+    },
+    {
+      "img": "departmentSection/ite/testing-3.jpg",
+      "title":"Bachelor Degree",
+      "summary": "Bachelor of Information Technology Engineering (ITE) program at Faculty of Engineering, designed to provide high-quality training in Information Technology which meets the current and future labor market requirements",
+      "link": "ited/undergraduate"
+    },
+    {
+      "img": "departmentSection/ite/testing-6.jpg",
+      "title":"Master Degree",
+      "summary": "Master of IT Engineering (MITE) upgrades skills and knowledge of students in information and telecommunication technologies to a specialist level for a variety of ICT careers ranging from programmers/software developers, IT consultants, project managers in IT, network specialists to wireless and mobile engineers ",
+      "link": "ited/graduate"
+    },
+    {
+      "img": "departmentSection/ite/ite-outline-1.jpg",
+      "title":"Study Program",
+      "summary":"With elective courses such as Artificial Intelligence, Computer Graphics, Game Development, Data Mining, and Security, it enables students to be capable to develop diverse industrial applications. At ITE, students are required to do practicum from year 2 to year 4 with real world problem. Doing practicum plays a crucial role in training students to acquire valuable experience required skill sets and ability to be ready for work at Tech Company after graduation."
+    }
+  ],
+  "subNavbarSection": [
+    {
+      "title": "Overview"
+    },
+    {
+      "title": "Job Prospects"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Project"
+    },
+    {
+      "title": "Contact Us"
+    },
+    {
+      "title": "Academic staff"
+    }
+  ],
+  "studyProgramSection": {
+    "title": "Everything you need to learn",
+    "program": [
+      {
+        "img": "departmentSection/teed/teed-program.png",
+        "title": "program 1",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 2",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 3",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 4",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      }
+    ]
+  },
+  "jobSection":
+  {
+    "title": "Job Prospects",
+    "job": [
+      {
+        "label":"Agile Software Developer",
+        "description": " is about good estimation, effective branching strategies for managing code, automated testing to protect quality, and continuous deployment to get fast feedback from users"
+      },{
+        "label":"Agile Web Developer",
+        "description": "Network engineers plan, construct and manage networks to ensure they're optimized and functioning as intended. "
+      },{
+        "label":"Agile Mobile Developer",
+        "description": "design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment"
+      },{
+        "label":"Fullstack Developer",
+        "description": "Telecommunications engineers design, test and build the various technologies that allow people to communicate over distances"
+      },{
+        "label":"Network & Security Engineer",
+        "description": "The job description of a network security engineer includes designing and administering security systems for organizational networks. A network security engineer protects systems from cyber threats"
+      },{
+        "label":"Data Engineer",
+        "description": "A data engineer is an IT worker whose primary job is to prepare data for analytical or operational uses"
+      }
+    ],
+    "icon": "departmentSection/ite/ite_job_icon.png"
+  },
+  "eventLinkSection":
+  {
+    "title": "Collaboration &  Opportunities",
+    "description": "Based on knowledges which are provided by IT Engineering department, graduates can work as Designer/Developer of Computer & Mobile  Software, Database System Analyst/Developer, Network Engineer, and Game Developer.",
+    "buttonLabel": "Checkout for event & opportunities"
+  },
+  "researchSection":
+  {
+    "title": "Project & Research",
+    "research":
+    [
+      {
+        "title":"A New Model for Simulating and Evaluating Congestion Cause at Signalized Intersection",
+        "description":"This paper presents a simulation framework to determine congestion cause for an isolated signalized intersection having four-approaches with through and left-right turn movement under homogenous condition. The simulation framework consists of various correlated models such as vehicles’ path model, car following model, vehicles’ arrival model, and evaluation model. The framework is then implemented to create SPSV (Special Purpose Simulation and Visualization) software. These models are presented in mathematical terms with specified parameters and objective function that later are interrupted and discretized using Object-oriented methodology with programming language. The vehicles’ path model is a piecewise function describing a driver’s position when approaching intersection till leaving intersection in terms of time. The vehicle arrival model is based on negative exponential distribution. The data generated by the models will be used to evaluate the traffic performance on the specified scenario. The parameters input to the models will be used to suggest the optimal setting to determine the factors for better intersection performance.",
+        "img":"research/research-5.jpg",
+        "author": "Sokchea Kor and Susanne Krömker"
+      },
+      {
+        "title":"Gastromod: An interactive tool for 3D Gastropod Modeling",
+        "description":"This paper presents an interactive tool called Gastromod that allows the user to graphically approximate a number of diverse three dimensional ideal shapes of gastropods (snails with shells) developing isometric growth. The implementation uses (i) Raup’s geometric model for constructing the spiral shape and (ii) the Frenet frame to orient generating curves such as circles or ellipses along the spiral curve. The ideal 3D surface of the shell of a gastropod or cephalopod (ammonite) is generated using typical parameters frequently measured in paleontology. In combination with 3D scans of fossils, this tool makes a contribution to assist paleontologists and other related researchers in the analysis of evolution and growth, the study of the possible shell forms and the revolution determination of gastropods.",
+        "img":"research/research-6.jpg",
+        "author": "KimAng Kheang, Sokchea Kor, and Sovila Srun"
+
+      }
+    ],
+    "buttonLabel":"Checkout other more project"
+  },
+  "evaluationSection": {
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"80-100",
+        "gpa": 4.0,
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excerllent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excerllent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excerllent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excerllent"
+    }
+    ]
+  },
+  "curriculumSection":
+  {
+    "title": "Curriculum",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "curriculum":[
+      {
+        "yearLabel":"Foundation",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+
+      {
+        "yearLabel":"Second Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel":"Third Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel":"Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      }
+    ]
+
+  },
+  "staffSection": {
+    "title": "Academic staff",
+    
+    "staff": [
+      {
+        "name": "Dr. Srun Sovila",
+        "img": "departmentSection/ite/sovila.jpg",
+        "role": "Head of IT Engineering Department",
+        "email": "srun.sovila@rupp.edu.kh",
+        "bio": "Bachelor in Information Science and Computer Engineering at Taganrog State University of Radio Engineering (TSURE) in 2005, Russian Federation (RF); Engineer in Computers and Automated Systems Software at TSURE in 2006, RF; PhD in Basic Theory of Informatics at Taganrog Institute of Technology Southern Federal University in 2010, RF."
+      },
+      {
+        "name": "Ms. Rim Beanbonyka",
+        "img": "departmentSection/ite/bonika.jpg",
+        "role": "Deputy Head of IT Engineering Department",
+        "email": "",
+        "bio": "Graduated a Bachelor of Computer Sciences (RUPP, Cambodia) in 2007, and Master in E-Media (GroupT – International University, Leuven, Belgium) in 2010. She is currently a lecturer and researcher. Her research interests are 3D Modeling, Computer Graphics, Image Processing, and User Interface Design."
+      },
+      {
+        "name": "Kor Sokchea",
+        "img": "departmentSection/ite/ksokchea.jpg",
+        "role": "Researcher and Lecturer",
+        "email": "kor.sokchea@rupp.edu.kh",
+        "bio": "Graduated a Bachelor of Computer Science and Engineering,(RUPP, Cambodia) in 2007, and Master of Applied Computer Science,(Heidelberg University, Germany) in 2014 He is currently a lecturer and researcher. His Experience are Research Assistant at Interdisciplinary Center for Scientific Computing, IWR (2011-2014) Software Development for Stone Management of Angkor Wat for World Monument Fund, supported by Interdisciplinary Center for Scientific Computing, Heidelberg University, Mobile Software Development (m-health project), Mapping Health Centres in Phnom Penh, Cambodia (Google project). His research interests are Document Image Analysis, NLP & OCR, Machine Learning, Pattern Recognition."
+      },
+      {
+        "name": "Dr. Sotheara Veng",
+        "img": "departmentSection/ite/veng_sotheara.jpg",
+        "role": "Lecturer",
+        "email": "veng.sotheara89@rupp.edu.kh",
+        "bio": "Dr. Sotheara Veng is a lecturer and researcher in the Graduate School of Science at Royal University of Phnom Penh (RUPP), where he has been since 2019. He received a B.S. in Mathematics and an M.S in Mathematics from the Royal University of Phnom Penh in 2010 and 2012, respectively. From 2010 to 2011 he was taking a pedagogy training course at the National Institute of Education (NIE) and received a certificate of higher education teacher in 2011. He received another M.S in Applied Mathematics from the University of the Philippines Diliman, Philippines in 2015. He received his Ph.D. in Mathematics from the Pusan National University, South Korea in 2018."
+      },
+      {
+        "name": "Mrs. Soy Sambocheyear",
+        "img": "departmentSection/ite/Soy Sambocheyear.jpg",
+        "role": "Lecturer and Researcher",
+        "email": "soy.sambocheyear@rupp.edu.kh",
+        "bio": "Mrs. Soy Sambocheyear is a lecturer and researcher in Department of IT Engineering at Royal University of Phnom Penh since 2017. She received her MA in Computer Engineering from Daejeon University at South Korea in 2014. Her research interest include MIS and Software testing."
+      },
+      {
+        "name": "Mr. Bun Leap",
+        "img": "departmentSection/ite/bunleap.jpg",
+        "role": "Lecturer",
+        "email": "bun.leap@rupp.edu.kh",
+        "bio": "Helping and sharing others are a part of my happiness!"
+      }
+    ]
+  },
+  "studentProjectSection":
+  {
+    "title": "Recent Student Project",
+    "project":
+    [
+      {
+        "title":"Road Intersection Simulation and Visualization",
+        "studentName": "KimAng Kheang and Sokchea Kor",
+        "img": "research/research-7.jpg",
+        "description": "This is a special purpose simulation software aiming at analyzing traffic data at the signalized intersection. The input parameters ranged from vehicles’ birth rate, flow distribution, traffic light duration. The traffic mode can also be switched to unrestricted flow (no traffic light presented). The output data are traffic flow, road density, numbers of vehicles, headway, mostly importantly the congestion rate based on current configuration. The simulated data can be used as a reflection for optimization of traffic system to get better traffic performance. 16 visualization panels display corresponding real-time traffic data of each intersection approach."
+      }
+    ]
+  }
+}

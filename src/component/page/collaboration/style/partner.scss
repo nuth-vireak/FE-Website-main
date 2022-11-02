@@ -1,0 +1,35 @@
+@import "../../../style/variable";
+@mixin layout ()
+{
+  .Partner_Layout
+  {
+    background:unset;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:2rem;
+  }
+}
+.Partner
+{
+  @include paddingContent;
+  @include layout;
+  background-color: var(--primary-white-blue-color);
+}
+
+.alternatePartner
+{
+  @include paddingContent;
+  background: #262D32;
+  @include layout
+}
+
+@media screen and (max-width:$breakpoint-laptop-s)
+{
+  .Partner
+  {
+    .Partner_Layout
+    {
+      gap:1.5rem;
+    }
+  }
+}

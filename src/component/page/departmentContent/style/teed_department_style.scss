@@ -1,0 +1,52 @@
+.teedDepartment
+{
+  .tted-outline-section
+  {
+    //background-color:#1B1B1B;
+    //color: var(--primary-text-color);
+
+    background-color:var(--primary-text-color);
+    color:#1B1B1B;
+    gap: clamp(0.5em, 2vw, 5em);
+  }
+  //.evaluation-section
+  //{
+  //  background-color: var(--primary-text-color);
+  //  .evaluation-section-title,
+  //  .evaluation-section-table
+  //  {
+  //    color:black;
+  //    .table-thead
+  //    {
+  //      .table-tr
+  //      {
+  //        .table-th
+  //        {
+  //          border-top: 2px solid black;
+  //          border-bottom: 2px solid black;
+  //        }
+  //      }
+  //    }
+  //  }
+  //  .evaluation-section-description
+  //  {
+  //    color:#3D4450;
+  //
+  //  }
+  //}
+  //.curriculum-Section
+  //{
+  //  background-color: #1B1B1B;
+  //}
+  .program-section
+  {
+
+    .program-card
+    {
+      .description
+      {
+        color:#5A5A5A
+      }
+    }
+  }
+}

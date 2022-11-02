@@ -1,0 +1,81 @@
+@import '../../style/variable';
+
+.button
+{
+  border-radius:2px;
+  transition: all 150ms ease-in-out;
+  border:none;
+  outline:none;
+
+  &:hover
+  {
+
+    background: var(--primary-text-color);
+
+    .button-label
+    {
+      color:var(--primary-blue-brigh-text-color)
+    }
+  }
+
+  .button-label
+  {
+    margin:0;
+    padding:.5em 1.7em;
+    text-transform: uppercase;
+    font-family: var(--header-font);
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 2rem;
+    color:var(--primary-text-color)
+  }
+
+  background:var(--primary-blue-brigh-text-color);
+}
+
+@media screen and (max-width:$breakpoint-desktop)
+{
+  .button
+  {
+    .button-label
+    {
+      //font-size: 1.5vw;
+      font-size:1rem;
+
+    }
+  }
+}
+
+.outline-button
+{
+  &:hover
+  {
+    //outline-offset:1px;
+    outline:solid var(--primary-blue-brigh-text-color);
+  }
+}
+@media screen and (max-width: $breakpoint-table-m)
+{
+  .button
+  {
+    .button-label
+    {
+      font-size:1rem;
+    }
+  }
+}
+
+@media screen and (max-width:$breakpoint-table-s)
+{
+  .button
+  {
+    max-height: 40px;
+    //max-width:140px;
+    //width: 100%;
+    .button-label
+    {
+      font-size:1rem;
+      padding: .25rem 1em;
+    }
+  }
+}

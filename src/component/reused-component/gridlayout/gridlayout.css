@@ -1,0 +1,165 @@
+.event-list {
+  background-color: whitesmoke;
+}
+
+.add-margin-left {
+  margin-left: 1%;
+}
+
+.menu-label {
+  position: relative;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: inline-block;
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.4rem;
+}
+
+.menu-label::before {
+  top: -0.2em;
+  position: absolute;
+  content: " ";
+  display: block;
+  width: 20%;
+  height: 4px;
+  background: #01A5FF;
+}
+
+.menu-layout {
+  padding: 0 6%;
+}
+.menu-layout .menu-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.menu-layout .menu-list .list-card {
+  flex: 0 0 33.33%;
+  width: 33%;
+  padding: 0 1vw;
+  margin-bottom: 2.8rem;
+}
+.menu-layout .menu-list .list-card .card-image {
+  position: relative;
+}
+.menu-layout .menu-list .list-card .card-image .image {
+  width: 100%;
+}
+.menu-layout .menu-list .list-card .card-article {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.menu-layout .menu-list .list-card .card-article .title-link {
+  text-decoration: none;
+}
+.menu-layout .menu-list .list-card .card-article .article-title,
+.menu-layout .menu-list .list-card .card-article .department-title {
+  white-space: pre-wrap;
+  /* CSS3 */
+  white-space: -moz-pre-wrap;
+  /* Firefox */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* IE */
+  margin: 0;
+  font-family: var(--header-font);
+  font-weight: bold;
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: var(--primary-dark-medium-text-color);
+}
+.menu-layout .menu-list .list-card .card-article .article-date {
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin-top: 1vw;
+  color: var(--primary-dark-low-text-color);
+}
+.menu-layout .menu-list .list-card .card-article .article-detail {
+  margin-top: 1.5em;
+}
+.menu-layout .menu-list .list-card .card-article .article-detail .article-section {
+  margin-bottom: 2em;
+}
+.menu-layout .menu-list .list-card .card-article .article-detail .article-section .article-label {
+  text-transform: uppercase;
+  font-family: var(--header-font);
+  font-size: 1.3rem;
+}
+.menu-layout .menu-list .list-card .card-article .article-detail .article-section .article-list-point {
+  margin-top: 0.5em;
+}
+.menu-layout .menu-list .list-card .card-article .article-detail .article-section .article-list-point .point {
+  text-transform: capitalize;
+  font-size: 1rem;
+  color: var(--primary-dark-low-text-color);
+}
+
+@media screen and (max-width: 1599px) {
+  .menu-label {
+    font-size: 2.4vw;
+  }
+
+  .menu-layout .menu-list .list-card .card-article {
+    margin-top: 1.7vw;
+  }
+  .menu-layout .menu-list .list-card .card-article .article-title {
+    font-size: 1.8vw;
+  }
+  .menu-layout .menu-list .list-card .card-article .department-title {
+    font-size: 2vw;
+  }
+  .menu-layout .menu-list .list-card .card-article .article-date {
+    font-size: 1.3vw;
+  }
+}
+@media screen and (max-width: 992px) {
+  .menu-label {
+    font-size: 1.6em;
+  }
+
+  .menu-layout .menu-list .list-card {
+    flex: 0 0 50%;
+    width: 50%;
+  }
+  .menu-layout .menu-list .list-card .card-article {
+    margin-top: 1rem;
+  }
+  .menu-layout .menu-list .list-card .card-article .article-title,
+.menu-layout .menu-list .list-card .card-article .department-title {
+    font-size: 1.3rem;
+  }
+  .menu-layout .menu-list .list-card .card-article .article-date {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .menu-layout .menu-list .list-card {
+    flex: 0 0 50%;
+    width: 50%;
+    margin-bottom: 1.5rem;
+  }
+  .menu-layout .menu-list .list-card .card-article .article-date {
+    font-size: 0.8rem;
+  }
+}
+@media screen and (max-width: 572px) {
+  .menu-layout .menu-list .list-card {
+    flex: 0 0 100%;
+    width: 100%;
+    margin-bottom: 1.3rem;
+  }
+  .menu-layout .menu-list .list-card .card-article .department-title {
+    font-size: 1.7rem;
+  }
+}
+
+/*# sourceMappingURL=gridlayout.css.map */

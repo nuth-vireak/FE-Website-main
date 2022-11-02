@@ -1,0 +1,54 @@
+.display-button {
+  visibility: visible;
+  opacity: 1;
+}
+
+.close-button {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.btn-to-top {
+  border-radius: 90px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 4px 12px;
+  background-color: #014164;
+  color: white;
+  padding: 1.25em;
+  margin: 1rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 999;
+  transition: all 300ms ease-in-out, transform 50ms ease-in-out;
+}
+.btn-to-top .button-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 26px;
+  height: 26px;
+}
+@media (max-width: 768px) {
+  .btn-to-top {
+    padding: 1rem;
+  }
+}
+.btn-to-top:active {
+  transform: scale(0.8, 0.8);
+  background: #fff;
+}
+.btn-to-top:active .button-icon {
+  color: #01375A;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .btn-to-top:hover {
+    cursor: pointer;
+    background: #fff;
+  }
+  .btn-to-top:hover .button-icon {
+    color: #01375A;
+  }
+}
+
+/*# sourceMappingURL=move_to_top_btn.css.map */

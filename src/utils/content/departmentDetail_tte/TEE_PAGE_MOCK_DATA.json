@@ -1,0 +1,431 @@
+{
+  "contactSection":
+  {
+    "number": "096 328 4599",
+    "page": "facebook.com/ferupp.teed"
+  },
+  "introSection":
+  {
+    "title": "Telecommunication & Electronic engineering",
+    "description":"Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable,Where Electrical technology focuses on a design of integrated circuit.",
+    "backgroundImg":"departmentSection/teed/teed-i-1.jpg"
+  },
+  "outlineSection":
+  {
+    "title":"Undergraduate Degree\nCurriculum \nOutline",
+    "description":"Telecommunication and Electrical Engineering integrate two technologies including Telecommunication technology and Electrical Technology. Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable, propagating electromagnetic wave (wireless) or light signal, base on the fundamental of electricity and electronics. Electronics technology focuses on a design of integrated circuit with components such as diode, transistor, resistor, capacitor, sensors and other components in order to control electron flow (electricity). Our department provides quality education for students to be able to design system and devices in both technologies to solve social problems, to be able to conduct research, and to be able to continue to pursuit graduate studies. With our curriculum, students will be able to do group work effectively with leadership and entrepreneurship. After graduate from our program, students are qualified to work in mobile operation companies, Internet service providing companies, TV / Radio Stations, Airports/seaports, factories, and public/private institutions."
+  },
+  "outlineListSection":
+  [
+    {
+      "video": "I9o-OiFIRMc",
+      "title":"Department\nVision",
+      "summary":"Producing graduates with knowledge's, skills, competencies in Telecommunication & Electrical Engineering Education through innovative practices and team work and equipping students with 21st Century skills."
+    },
+    {
+      "img": "departmentSection/teed/teed-b-1.jpg",
+      "title":"Bachelor Degree",
+      "summary": "Telecommunication and Electrical Engineering integrates two technologies including Telecommunication technology and Electrical technology.",
+      "link": "teed/undergraduate"
+    },
+    {
+      "img": "departmentSection/teed/test-3.jpg",
+      "title":"Study Program",
+      "summary":"Telecommunication technology is the communication system over long distance by transmitting electrical signal via cable, propagating electromagnetic wave (wireless) or light signal, base on the fundamental of electricity and electronics. Electronics technology focuses on a design of integrated circuit with components such as diode, transistor, resistor, capacitor, sensors and other components in order to control electron flow (electricity)."
+    }
+  ],
+  "subNavbarSection": [
+    {
+      "title": "Overview"
+    },
+    {
+      "title": "Job Prospects"
+    },
+    {
+      "title": "Research"
+    },
+    {
+      "title": "Project"
+    },
+    {
+      "title": "Contact Us"
+    },
+    {
+      "title": "Academic staff"
+    }
+  ],
+  "studyProgramSection": {
+    "title": "Everything you need to learn",
+    "program": [
+      {
+        "img": "departmentSection/teed/teed-program.png",
+        "title": "program 1",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 2",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 3",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      },
+      {
+        "img": "departmentSection/teed/teed-department-intro.jpg",
+        "title": "program 4",
+        "description": "outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to outstanding student who would like to conduct their research project under the supervision Quicksand outstanding student who would like to "
+      }
+    ]
+  },
+  "jobSection":
+  {
+    "title": "Job Prospects",
+    "job": [
+      {
+        "label":"Computer Network Administrator",
+        "description": "professional who ensures that an organization's computer networks groups of computers that share information with one another are operating to meet the needs of the organization"
+      },{
+        "label":"Telecommunication and Electronics System Manager",
+        "description": "Network engineers plan, construct and manage networks to ensure they're optimized and functioning as intended. "
+      },{
+        "label":"Electrical Engineer",
+        "description": "design, develop, test, and supervise the manufacture of electrical equipment, such as electric motors, radar and navigation systems, communications systems, or power generation equipment"
+      },{
+        "label":"Telecommunication Engineer",
+        "description": "Telecommunications engineers design, test and build the various technologies that allow people to communicate over distances"
+      },
+      {
+        "label":"broadcasting Engineering",
+        "description": "Broadcast engineering is the field of electrical engineering, and now to some extent computer engineering and information technology, which deals with radio and television broadcasting"
+      }
+    ],
+    "icon": "departmentSection/teed/teed-job-icon-satellite.png"
+  },
+  "eventLinkSection":
+  {
+    "title": "Collaboration &  Opportunities",
+    "description": "Based on knowledge's which are provided by IT Engineering department, graduates can work as Designer/Developer of Computer & Mobile  Software, Database System Analyst/Developer, Network Engineer, and Game Developer.",
+    "buttonLabel": "Checkout for event & opportunities soon"
+  },
+  "researchSection":
+  {
+    "title": "Project & Research",
+    "research":
+    [
+      {
+        "title":"Asean factori 4.0 Project",
+        "description":"Asean Factori 4.0 project propose to contribute to this challenge by the design of a set of industrial automation labs with a corresponding staff training program to initiate the foundation of center of excellence in Automation.",
+        "img":"research/research-factori-project.png",
+        "link": "/research-project/4",
+        "author": "Telecommunication & electronic Engineering"
+      }
+    ],
+    "buttonLabel":"Checkout other more project"
+  },
+  "evaluationSection": {
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"80-100",
+        "gpa": 4.0,
+        "letter": "A = Excellent"
+      },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excellent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excellent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excellent"
+    },{
+      "score":"80-100",
+      "gpa": 4.0,
+      "letter": "A = Excellent"
+    }
+    ]
+  },
+  "curriculumSection":
+  {
+    "title": "Curriculum",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "curriculum":[
+      {
+        "yearLabel":"Foundation",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+
+      {
+        "yearLabel":"Second Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Organic Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Biology II",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel":"Third Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel":"Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },{
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      }
+    ]
+
+  },
+  "staffSection": {
+    "title": "Academic staff",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to ",
+    "staff": [
+      {
+        "name": "HENG Sokha",
+        "img": "departmentSection/teed/HENG SOKHA.jpg",
+        "role": "Head of TEED, RUPP",
+        "email": "skh.sokha@gmail.com",
+        "bio": "Education:\n\t2010-2012: Master of Telecommunication, Waseda University, Japan. 2009-2010: Exchange program in Informatics, Heidelberg University, Germany. 2005-2009: Bachelor in Computer Science, RUPP.\nExperiences:\n2016 to Present: Head of TEED, RUPP.\n2012 to Present: lecturer RUPP."
+      },
+      {
+        "name": "SENG Molika",
+        "img": "departmentSection/teed/SENG MOLIKA.jpg",
+        "role": "Deputy Head of TEED",
+        "email": "seng.molika@rupp.edu.kh",
+        "bio": "Education:\n\tMaster in Ubiquitous and Network Computing , University of Nice Sophia Antipolis, France, 2012 Bachelor Computer Science , Royal University of Phnom Penh, 2009\nExperiences:\n2013 to Present: lecturer RUPP."
+      },
+      {
+        "name": "BAE, DAE HWAN",
+        "img": "departmentSection/teed/BAE, DAE HWAN.png",
+        "role": "Lecturer and Project Manager",
+        "email": "whymper@gmail.com",
+        "bio": "Education:\n\tPh.D. in Radio and Telecommunication, 2001 Korea Maritime University, South Korea.\nM.D. in Radio and Telecommunication, 1997 Korea Maritime University, South Korea.\nBA. In Automatic Control Engineering, 1995 Bukyeung National University, South Korea.\nExperiences:\nPRESIDENT , UNOIN SCHOOL OF TECHNOLOGY 2012 - Present \nPROFESSOR AND DEVELOPMENT AT NATIONAL POLYTECHNIC INSTITUTE OF CAMBODIA, 2005 - Present \nPROFESSOR International corporation Department :\n\tJEON JU UNIVERSITY, 2011-2012 \n\tKONYANG UNIVERSITY,, 2016-2017\n\tDONG BUSAN COLLEGE, 2002-2004\n\tKYEUNG NAM INFORMATION COLLEGE 1995-2001"
+      },
+      {
+        "name": "CHHOEUM Vantha",
+        "img": "departmentSection/teed/CHHOEUM VANTHA.jpg",
+        "role": "Lecturer and researcher",
+        "email": "vantha_chhoeum@yahoo.com",
+        "bio": "Education:\t\t\n\tMaster Electromechanical Engineer,Groep T-Internationale Hogeschool Leuven, Belgium, 2013\n\tBachelor Electromechanical Engineer,Groep T-Internationale Hogeschool Leuven, Belgium, 2013\n\tBachelor Physics, Royal University of Phnom Penh, Cambodia, 2010\nExperiences:\t\t\n\tTeaching at NPIC, 2013-2015 \n\tTeaching at PPIT, 2014-2015\n\tVolunteer at IT center RUPP, 2013- 2016\n\tTeaching at NIE, 2015 - 2017\n\tTeaching at RUPP 2014 - Present"
+      },
+      {
+        "name": "CHHEANG Vuthy",
+        "img": "departmentSection/teed/CHHEANG VUTHY.jpg",
+        "role": "Lecturer and researcher",
+        "email": "Cvuthy@yahoo.com",
+        "bio": "Education:\t\t\n\tMaster Opto-electronic Circuit & System, Chung Ang University, South korea, 2013\n\tBachelor Electronic Automatic & Telecom, Institute of Technology of Cambodia, 2011\nExperiences:\t\t\n\tCCES Telecom Company 2010\n\tComin Khmer Company 2011\n\tLOCS Research Lab  2013\n\tYunTech Company, South Korea 2017"
+      },
+      {
+        "name": "KUONG Samnang",
+        "img": "departmentSection/teed/Kuong Samnang.png",
+        "role": "Lecturer and researcher",
+        "email": "kuongsamnang@gmail.com",
+        "bio": "Education:\t\t\n\tMaster: Electronics and Communication System Engineering, South Korea, 2013\n\tBachelor: Electronics Engineering, 2011\nExperiences:\t\t\n\tLecture at UST 2013\n\tEngineer at TTP Grain Dryer 2014\n\tProduction Engineer@ MinebeaMitsumi\n\t2017 to Present: lecturer RUPP.\n\n"
+      },
+      {
+        "name": "THAP Tharoeun",
+        "img": "departmentSection/teed/THAP THAROEUN.jpg",
+        "role": "Lecturer and researcher",
+        "email": "wec.tharoeun@gmail.com",
+        "bio": "Education:\t\t\n\tPh.D – Biosignal Analysis in Medical Engineering, Wonkwang University, \n R.O.Korea, 2017\n\tMaster – Electrical and Communication System Engineering, Soonchunhyang University, R.O.Korea, 2013\n\tBachelor – Electronic Engineering, National Polytechnic Institute of Cambodia, 2009\nExperiences:\t\t\n\t2012-Present: Union School of Technology\n\t2013-2017: Lifurance Company\n\t2017-Present: RUPP (full-time), NIPTICT (part-time)"
+      },
+      {
+        "name": "HOUN Seak",
+        "img": "departmentSection/teed/HOUN SEAK.jpg",
+        "role": "Lecturer and researcher",
+        "email": "houn.seak@rupp.edu.kh",
+        "bio": "Education:\t\t\n\tMaster in Information Technology , Royal University of Phnom Penh, 2010\n\tBachelor Computer Science , Royal University of Phnom Penh, 2006\nExperiences:\t\t\n\tTeaching at RUPP, 2012-present\n"
+      },
+      {
+        "name": "SRENG Sokchenda",
+        "img": "departmentSection/teed/SRENG SOKCHENDA.png",
+        "role": "Lecturer and researcher",
+        "email": "sokchenda@itc.edu.kh",
+        "bio": "Experiences:\t\t\n\t2016-present: Part-Time Lecturer, RUPP \n\t2012-present: Lecturer/Researcher, ITC\n\t2009-2012: Ph.D. research scholar, IRIT Toulouse\n\t2005-2009: Lecturer, ITC\n\t2004 February-July: Radio Engineer, HuaWei Technology, Co.Ltd., Phnom Penh\nEducation:\t\t\n\tPh.D. Telecommunication and Network Engineering, INP Toulouse, France, 2009-2012\n\tMSc. Telecommunication and Network Engineering, INP Toulouse, France, 2004-2005\n\tEngineer’s degree, Electrical Engineering, Institute of Technology of Cambodia, 1999-2004"
+      }
+    ]
+  },
+  "studentProjectSection":
+  {
+    "title": "Recent Student Project",
+    "project":
+    [
+      {
+        "title":"Computer Numerical Control",
+        "studentName": "Pil Sinnara",
+        "img": "departmentSection/teed/teed-student-project-1.png",
+        "description": "is automated machine which are operated by computer executing pre-programmed software and code to controls the movement of production equipment. In which a smaller scale it can use to write, draw, engrave, etc."
+      },
+      {
+        "title":"Obstacle avoiding car",
+        "studentName": "Ley Pisey",
+        "img": "departmentSection/teed/teed-student-project-2.png",
+        "description": "Obstacle Avoiding Car is an intelligent device which can automatically sense the obstacle in front of it and avoid them by turning itself either right or left by using Arduino components and Ultrasonic sensor."
+      },
+      {
+        "title":"Robot Arm",
+        "studentName": "Uon Kanha",
+        "img": "departmentSection/teed/teed-student-project-3.png",
+        "description": "Hand Robot is a type of mechanical hand that functions similar to a human hand. It can catch or drop an object from one place to another by using Potentiometer and Servo to control that Hand Robot."
+      },
+      {
+        "title":"LED Transmission",
+        "studentName": "Motita Koy's Team",
+        "img": "departmentSection/teed/teed-student-project-4-2.png",
+        "description": "Audio Transmission via LED is one of the wireless communication system. In the process signals is converted into light to transmit to the receiver which used a solar panel that absorb the light and convert it into audio signal."
+      }
+    ]
+  }
+}

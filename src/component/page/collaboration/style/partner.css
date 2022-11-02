@@ -1,0 +1,33 @@
+.Partner {
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+  background-color: var(--primary-white-blue-color);
+}
+.Partner .Partner_Layout {
+  background: unset;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.alternatePartner {
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+  background: #262D32;
+}
+.alternatePartner .Partner_Layout {
+  background: unset;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .Partner .Partner_Layout {
+    gap: 1.5rem;
+  }
+}
+
+/*# sourceMappingURL=partner.css.map */

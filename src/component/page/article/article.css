@@ -1,0 +1,74 @@
+.uppercaseBold-text,
+.article-header {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.article-header {
+  font-size: 1.8rem;
+  color: var(--primary-dark-medium-text-color);
+}
+
+.article-paragraph {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.article-image {
+  object-fit: contain;
+  width: 100%;
+}
+
+.write {
+  margin-bottom: 10rem;
+}
+
+.article {
+  box-sizing: unset;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  max-width: 1600px;
+  padding: 0 6%;
+}
+.article .article-title {
+  font-weight: bold;
+  font-size: 3rem;
+}
+.article .article-published-date {
+  text-transform: uppercase;
+  font-family: var(--header-font);
+  font-size: 1.5rem;
+}
+.article .article-content {
+  margin-top: 3em;
+}
+.article hr {
+  height: 2px;
+  margin-top: 3rem;
+  margin-bottom: 2.6rem;
+  color: var(--primary-dark-high-text-color);
+}
+
+@media (max-width: 922px) {
+  .article .article-content {
+    margin-top: 2em;
+  }
+}
+@media (max-width: 572px) {
+  .article-paragraph {
+    font-size: 1rem;
+  }
+
+  .article .article-title {
+    font-size: 2rem;
+  }
+  .article .article-published-date {
+    font-size: 1.2rem;
+  }
+  .article .article-content {
+    margin-top: 1.5em;
+  }
+}
+
+/*# sourceMappingURL=article.css.map */

@@ -1,0 +1,33 @@
+.img-hover-zoom
+{
+  overflow: hidden;
+
+  .active,
+  .upcoming
+  {
+    filter: opacity(100%);
+    &:hover
+    {
+      filter: opacity(50%)
+    }
+  }
+
+  .expired
+  {
+    filter: grayscale(75%);
+    &:hover
+    {
+      filter: grayscale(0%);
+    }
+  }
+
+  .image
+  {
+    transition: transform 300ms, filter 200ms ease-in-out;
+  }
+
+  &:hover .image
+  {
+    transform: scale(1.5);
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "sectionBanner":
+  {
+    "title": "Bio-Engineering Biotechnology",
+    "subTitle": "Bachelor programs",
+    "imgUrl": "departmentSection/bio/bio-outline-2.png"
+  },
+
+  "admissionSection":
+  {
+    "img": "departmentSection/general/graduate/enroll-bio.png",
+    "description": "",
+    "list":
+    [
+      "Chemistry Rank: A - E",
+      "Biology Rank: A - E"
+    ]
+  },
+
+  "trackListSection":
+  {
+    "department": "track-label-bio",
+    "img": "icon/skill/molecules.png",
+    "trackList":
+    [
+      {
+        "trackLabel":"Coursework",
+        "trackDescription":"is for students who would like to conduct coursework and final project."
+      },
+      {
+        "trackLabel":"Research Thesis",
+        "trackDescription":"is for outstanding student who would like to conduct their research project under the supervision of BE faculty members."
+      },
+      {
+        "trackLabel":"Extended Training",
+        "trackDescription": "is designed for students who would like to participate in a long training period (for the entire semester) under a co-operative training program with companies or organizations."
+      }
+
+    ],
+    "note":"To improve student’s soft skill (communication, teamwork and leadership), the students are required to conduct a minimum 6 weeks internship at a standard company or organization during their vacation time of the third year or before.  "
+  },
+
+
+  "sectionIntro":
+  {
+    "img": "departmentSection/bio/bio-graduate-img-1.jpg",
+    "header": "Introduction",
+    "summary": "Bio-Engineering/Biotechnology is a branch of engineering that deals with chemical and biological processes used to develop and make products and practices used in Medical and Health application, Food and Agro industry, Agriculture and Environment. The areas of study in Bio-Engineering/Biotechnology are quite diverse. The curriculum is developed to provide fundamental knowledge in several major study areas so that students will be well prepared for work in biotechnical field such as food industry, microbial and enzyme biotechnology industry, gene technology, plant cell technology, etc., either in industrial factories, or in public and private research institutes. \n\n The Bio-Engineering/Biotechnology Program intends to prepare engineers for life-long achievement through both education in the principles of Bio-Engineering/Biotechnology and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "additionalInfor":
+    {
+        "jobInfor": {
+          "img": "icon/skill/logical-thinking.png",
+          "description": "The Department provides its graduates a competitive edge in the labor market. We prepare high quality professionals to work as",
+          "header": "Job Prospects",
+          "list":
+          [
+            "Agro-industry & Food specialist",
+            "Biomolecular Engineer",
+            "Biological Materials Engineer",
+            "Professor or Research of Biotechnology",
+            "Research or Biological Laboratory Specialist"
+          ]
+        },
+      "researchInfor":{
+        "img": "icon/skill/chemistry.png",
+        "description": "Research knowledge which are provided by Bio Engineering department",
+          "header": "Research",
+          "list":
+          [
+            "Biological Molecular Medicine",
+            "Agro-Industrial Biotechnology",
+            "Biotechnology to create biological devices"
+          ]
+        },
+      "skillInfor":
+      {
+        "description": "",
+        "softSkill":
+        {
+          "header": "",
+          "list":
+          [
+
+          ]
+        },
+        "hardSkill":
+        {
+          "header": "",
+          "list":
+          [
+
+          ]
+        }
+      }
+      }
+  },
+
+  "evaluationSection": {
+    "color": "#66bb6a",
+    "accentColor": "#a5d6a7",
+    "title":"Evaluation & Graduation",
+    "description":"Assessment of study will be performed at the end of each semester. Evaluation will be shown as the Grade Point Average (GPA) (4.00 scale) and the Cumulative Grade Point Average (4.00 scale).",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+      "letter": "E = Fail"
+    }
+    ]
+  },
+
+  "curriculumSection": {
+    "color": "66bb6a",
+    "accentColor": "#a5d6a7",
+    "colorSet":["#81c784","#66bb6a","#4caf50"],
+    "title": "Curriculum",
+    "description":"The curriculum is designed education in the principles of Bio Engineering and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Mathematics I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Chemistry",
+            "credit": "3",
+            "time": "(2-2-6)"
+          },
+          {
+            "subject": "Physics",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Computer Architecture & Application",
+            "credit": "2",
+            "time": "(1-2-4)"
+          },
+          {
+            "subject": "ICT for development",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Academic-skill",
+            "credit": "1",
+            "time": "(0-2-2)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Mathematics II",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Biology I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Technical Drawing",
+            "credit": "3",
+            "time": "(2-2-6)"
+          },
+          {
+            "subject": "C programming",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Introduction to statistics",
+            "credit": "2",
+            "time": "(2-1-4)"
+          },
+          {
+            "subject": "Introduction to Electrical Engineering",
+            "credit": "2",
+            "time": "(2-0-4)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "3",
+            "time": "(2-2-6)"
+          },
+          {
+            "subject": "Organic Chemistry I",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Biology II",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2-4)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Organic Chemistry II",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Analytical Chemistry II",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Physical Chemistry I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Biochemistry I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Microbiology",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Inoganic Chemistry",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2-4)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Biochemistry II",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Physical Chemistry II",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Bacteriology",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Unit Operation for Food Engineering I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Method in Enzymology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Introduction to biotechnology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2-4)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Unit Operation for Food Engineer II",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Computational Fluid Mechanics",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Food Technology I",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Mycology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Bio-Process Engineering",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Quality Control and Assurance",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2-4)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "Food Technology II",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Immunology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Molecular Biology &Gene Technology",
+            "credit": "4",
+            "time": "(3-2-6)"
+          },
+          {
+            "subject": "Plant Tissue Culture",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Entrepreneurship",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Enviromental Engineering",
+            "credit": "3",
+            "time": "(3-0-4)"
+          },
+          {
+            "subject": "Toxicology",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Internship (Soft Skill) (vacation time)",
+            "credit": "2",
+            "time": "(0-7-0)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2-4)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "group": "Coursework Track"
+          },
+          {
+            "subject": "Ethics in Biotechnology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Biomedical Engineering",
+            "credit": "3",
+            "time": "(3-0-6)"
+          },
+          {
+            "subject": "Aroma and Cosmetic Technology",
+            "credit": "2",
+            "time": "(2-0-4)"
+          },
+          {
+            "subject": "Final Project",
+            "credit": "5",
+            "time": "(0-40-0)"
+          },
+          {
+            "group": "Training or Research Track"
+          },
+          {
+            "subject": "Research Thesis/Engineering Training",
+            "credit": "12",
+            "time": "(0-8-0)"
+          }
+        ]
+      }
+    ]},
+
+  "partnerSection":
+  {
+    "label": "Partner & Support by",
+    "logo": [
+      "logo/university/bio-m-partner-1.png",
+      "logo/university/bio-m-partner-2.png",
+      "logo/university/bio-m-partner-3.png",
+      "logo/university/bio-m-partner-4.png"
+    ]
+  }
+}

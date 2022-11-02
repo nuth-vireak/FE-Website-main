@@ -1,0 +1,12 @@
+@media screen and (max-width: 1599px) {
+  .smallHeader {
+    font-size: 2.4vw;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .smallHeader {
+    font-size: 1.6em;
+  }
+}
+
+/*# sourceMappingURL=smallHeaderMedia.css.map */

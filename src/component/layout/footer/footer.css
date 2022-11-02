@@ -1,0 +1,66 @@
+.footer-none-display {
+  display: none;
+}
+
+.footer {
+  color: #ffffff;
+}
+.footer li {
+  list-style-type: none;
+}
+.footer .footer-content {
+  background: linear-gradient(0deg, #001F30 0%, #014164 100%);
+  margin: 0;
+  padding: 1.5em 2em 1em 2em;
+}
+.footer .footer-content ul .footer-icon {
+  height: 24px;
+}
+.footer .footer-content ul .follow_us {
+  height: 36px;
+}
+.footer .footer-content ul .follow_us:hover {
+  cursor: pointer;
+}
+.footer .copyright {
+  background-color: #01375a;
+  margin: 0;
+  padding: 30px;
+}
+.footer .footer-address {
+  color: var(--navbar-item-color);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+}
+.footer .rupp-logo {
+  margin-top: 1em;
+  padding: unset;
+}
+.footer .rupp-logo .logo {
+  max-height: 45px;
+}
+.footer .rupp-logo .title {
+  margin-left: 0.5em;
+  max-height: 45px;
+}
+
+.underline {
+  margin: 1.5em 0 1em 0;
+}
+
+.copyrightName {
+  text-align: center;
+  padding-left: 0;
+}
+@media (max-width: 576px) {
+  .copyrightName {
+    text-align: start;
+  }
+}
+.copyrightName p {
+  margin-bottom: unset;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=footer.css.map */

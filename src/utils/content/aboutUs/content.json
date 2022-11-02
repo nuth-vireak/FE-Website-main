@@ -1,0 +1,19 @@
+{
+    "title": "VISION & MISSIONS",
+    "subtitle": [
+        {
+            "title": "ទស្សនវិស័យ",
+            "desc": "មហាវិទ្យាល័យវិស្វកម្មនៃសាកលវិទ្យាល័យភូមិន្ទភ្នំពេញត្រូវបានបង្កើតឡើងនៅឆ្នាំ២០១៣\nជាមួយទស្សនវិស័យក្នុងការបណ្តុះបណ្តាលនិស្សិតលើវិស័យវិស័យវិស្វកម្មឲ្យមានសមត្ថភាពខ្ពស់​\nគំនិតច្នៃប្រឌិតនៃរបកគំហើញថ្មីៗ ជាមួយការសិក្សាស្រាវជ្រាវ\nប្រកបដោយក្រមសីលធម៌ សម្រាប់បំពេញតម្រូវការ\nនិងជួយអភិវឌ្ឍសង្គមសាកលភាវូបនីយកម្មបច្ចុប្បន្ន។"
+        },
+        {
+            "title": "ទស្សនវិស័យ",
+            "desc": "-&nbsp;បណ្តុះធនធានមនុស្សប្រកបដោយសមត្ថភាព​ និងជំនាញច្បាស់លាស់\n<br />\n-&nbsp;ធ្វើការផ្លាស់ប្តួរកម្មវិធីសិក្សាជាមួយសាកលវិទ្យាល័យជាដៃគូ\n<br />\n-&nbsp;បណ្តុះបណ្តាលសហគ្រិនភាពក្នុងវិស័យវិស្វកម្ម\n<br />\n-&nbsp;បង្កើតនូវការស្រាវជ្រាវផ្នែកវិស្វកម្មបែបស៊ីជម្រៅ"
+        }
+    ],
+    "dean-speech" : {
+        "header": "On behalf of all our faculty, staff and students, welcome to the Faculty of Engineering!",
+        "body" : "The Faculty of Engineering, Royal University of Phnom Penh was set up on May, 07 2013 to respond to the increase demand of the industries and private sectors in the country for qualified engineers. The faculty, with four departments, offers now seven degrees programs. We thrive to bring international experiences and new innovative engineering education such as Conceive, Design, Implement, Operate (CDIO) framework to enhance existing programs and building new programs toward international level. We ventured into offering international programs in Food technology & Engineering, Data science & Engineering, and 2+2 international program in Automation and Supply Chain System Engineering. Our engineering programs prepare our students equipped with positive mental attitude, intellectual, entrepreneurship and leadership capacity necessary to meet the challenges of the ever-changing society. With dedication, enthusiasm and hard work, the faculty has been able to produce graduates who are capable of addressing the requirement of the industries and private sectors.",
+        "footer": "The faculty is dedicated to pursue and excellent teaching and research culture to deliver high quality education."
+    }
+
+}

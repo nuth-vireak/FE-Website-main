@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA;EACE;;;AAEF;EACE;EACA;;;AAEF;EACE;;;AAEF;EACE;EACA","file":"main.css"}
+=======
+{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA;EAEE;EACA;;;AAEF;EAEE;EACA;;;AAEF;EAEE;EACA;EACA;EACA;;;AAEF;EAEE;EACA;;;AAEF;EAEE;EACA;;;AAEF;EAEE;EACA","file":"main.css"}
+>>>>>>> e9261f893f7bca8572c20a97933c13c2f909daed

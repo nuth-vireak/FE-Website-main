@@ -1,0 +1,28 @@
+.Collaboration .container-fluid {
+  width: 100%;
+  padding-left: 6%;
+  padding-right: 6%;
+  background-color: #EEEEEE;
+  padding-bottom: 10%;
+}
+.Collaboration .container-fluid .header .title_collaboration {
+  padding-top: 2%;
+  padding-left: 0;
+  margin-bottom: 5%;
+}
+.Collaboration .container-fluid .content {
+  padding: 2%;
+  background-color: #01375A;
+}
+.Collaboration .container-fluid .content span {
+  color: white;
+}
+.Collaboration .container-fluid .collaborationImg {
+  padding-top: 10%;
+}
+.Collaboration .container-fluid .collaborationImg img.pic {
+  padding: 0%;
+  padding-bottom: 1%;
+}
+
+/*# sourceMappingURL=collaborationStyle.css.map */

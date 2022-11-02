@@ -1,0 +1,36 @@
+.detail-header {
+  padding: 5rem 0 3rem 0;
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-weight: 700;
+}
+.detail-header::before {
+  content: "";
+  display: block;
+  width: 5rem;
+  max-width: 150px;
+  height: 7px;
+  background: #0070AD;
+}
+
+@media (max-width: 1599px) {
+  .detail-header {
+    font-size: 4vw;
+    padding: 4vw 0 2vw 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .detail-header {
+    font-size: 3rem;
+    padding: 4rem 0 2rem 0;
+  }
+}
+@media screen and (max-width: 480px) {
+  .detail-header {
+    font-size: 2rem;
+    padding: 1em 0 0.75em 0;
+  }
+}
+
+/*# sourceMappingURL=detailHeader.css.map */

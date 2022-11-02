@@ -1,0 +1,15 @@
+.breadcrumbnav {
+  margin-top: 2%;
+  background-color: #014164;
+  padding: 1% 6% 0% 6%;
+  color: white;
+}
+.breadcrumbnav .navigation .breadcrumb {
+  justify-content: end;
+}
+.breadcrumbnav .navigation .breadcrumb a {
+  color: white;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=breadcrumbnavStyle.css.map */

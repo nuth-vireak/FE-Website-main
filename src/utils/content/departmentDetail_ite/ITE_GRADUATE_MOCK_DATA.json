@@ -1,0 +1,457 @@
+{
+  "trackListSection":
+  {
+    "link": "http://www.rupp.edu.kh/graduate/mite/?page=Offered%20Topics",
+    "img": "icon/skill/paper.png",
+    "department": "track-label-ite",
+    "trackList":
+    [
+      {
+        "trackLabel":"Software Development Area",
+        "trackDescription":"This area aims at providing education and research into the development of computer software for variety of purposes."
+      },
+      {
+        "trackLabel":"Network Engineering Area",
+        "trackDescription":"This area will prepare students to be a professional network administrator or engineer in either wired or wireless communications. Wireless LAN, WiMAX, cellular networks and satellite communications will be introduced in this area."
+      },
+      {
+        "trackLabel":"Multimedia Science Area",
+        "trackDescription": "Moreover, this area offers opportunities for students to learn and explore research and development into computer media, 3D modeling, computer graphics, multimedia presentation, and image processing and media design."
+      }
+
+    ],
+    "note":""
+  },
+
+  "strategySection":{
+    "img": "departmentSection/bio/graduate/strategy.png",
+    "imgMobile": "departmentSection/bio/graduate/strategy-mobile-3.svg",
+    "list": [
+      "The strategy is to integrate groups in adjoining areas of fundamental science as well as in technology to create an interdisciplinary research environment within the Faculty of Engineering, in collaborations with the Faculty of Science and with the Department of In\u00ADternational Business Management.",
+      "The strategic objective of the Department of Bioengineering at RUPP is to establish a general competence in processing of biological raw materials to create valuable products. This includes a wide range of raw materials from agri\u00ADculture, forestry, and fishery, and involves the production of foods and materials as main the products, as well as utilization of a wide range of organic side streams into foods, feeds, or as sources of bio-derived chemical raw materials."
+    ]},
+
+  "sectionBanner":
+  {
+    "title": "Information Technology Engineering",
+    "subTitle": "Master Degree",
+    "imgUrl": "departmentSection/ite/ite-outline-2.jpg"
+  },
+  "sectionProgramFeature":{
+    "description": "What special about our master program is that we are highly committed to building and upgrading the technical knowledge of students with our carefully-structured courses at our first year. This will create a solid foundation for their second year’s focuses. We allow students to choose their preference of research and studies by shaping their knowledge to a particular area of technologies in the second year. Therefore, we provide three special study areas from which they can select.",
+    "list":[
+      {
+        "lable":"Software Development Area",
+        "description": "This area aims at providing education and research into the development of computer software for variety of purposes. Students selecting this area will put their concentration largely on how to develop and manage software projects. We also intend to offer research projects in software development with the guidance from experienced instructors."
+      },
+      {
+        "lable":"Network Engineering Area",
+        "description": "This area will prepare students to be a professional network administrator or engineer in either wired or wireless communications. Wireless LAN, WiMAX, cellular networks and satellite communications will be introduced in this area. Students will be given experiments in laboratories with appropriate equipment for different proposed projects for them to understand the actual operations."
+      },
+      {
+        "lable":"Multimedia Science Area",
+        "description": "Moreover, this area offers opportunities for students to learn and explore research and development into computer media, 3D modeling, computer graphics, multimedia presentation, and image processing and media design."
+      }
+    ]
+  },
+
+  "admissionSection":
+  {
+    "header": "Admission Requirements",
+    "img": "icon/skill/ite-check-list.png",
+    "description": "The medium of instruction of all master program at Wageningen University & Research is the English language. To be admitted to the Master's program at Department of Bio-Engineering",
+    "label": "To be admitted into our Master program, students must",
+    "list":
+    [
+      "pass an English Test prepared by the Program",
+      "hold a Bachelor Degree in Computer Science, Information Technology, Management Information Systems, Electrical and Electronic Engineering or its equivalent in the relevant fields approved by our academic board.",
+      "complete an application form, present a certified copy of their Bachelors Degree or equivalent, with a copy of the transcript, three recent 4 x 6 photographs, and present a valid ID card or copy of family book."
+    ],
+    "important":"Applications that do not meet the English proficiency requirements will be put on a hold and will not be viewed by the admission board(s). Unless you can be exempted, we need one of the following results as evidence of your English proficiency. An admission committee will judge every application on an individual basis."
+  },
+
+  "programFeaturesSection":
+  {
+    "description": "What special about our master program is that we are highly committed to building and upgrading the technical knowledge of students with our carefully-structured courses at our first year. This will create a solid foundation for their second year’s focuses. We allow students to choose their preference of research and studies by shaping their knowledge to a particular area of technologies in the second year. Therefore, we provide three special study areas from which they can select.",
+    "img": "departmentSection/ite/undergraduate/coding-language.png"
+  },
+
+  "cooperationAndEffortSection":{
+    "label": "Our faculty members strive to provide excellent education by conforming to the international standards through the following efforts:",
+    "img": "departmentSection/ite/graduate/partner.png",
+    "imgMobile": "departmentSection/ite/graduate/partner.png",
+    "list":[
+      "Cooperation with international universities in Japan, Europe and USA. Universities which are in cooperation with us for this Program include Group T, International University College Leuven (Belgium), Waseda University (Japan), Dresden University of Technology (Germany), IWR Heidelberg University (Germany), Pace University (USA). Furthermore, as a member of ASEAN University Network and having MoU's with many international universities around the world, we are ready to further our cooperation to ensure that the education quality is recognized internationally.",
+      "Cooperation with private companies, both local and international. We are committed to building relations and cooperation with industries so that our students will have chances to experience the actual works and to be exposed to job opportunities from our industry partners.",
+      "Establishment of laboratories fully equipped with high-tech computers and network equipment for experiments and practices.",
+      "Development of curriculum co-designed with the university partners with an emphasis on building research and professional skills for our students."
+    ]
+  },
+  "visionSection": {
+    "description": "Master of IT Engineering (MITE) upgrades skills and knowledge of students in information and telecommunication technologies to a specialist level for a variety of ICT careers ranging from programmers/software developers, IT consultants, project managers in IT, network specialists to wireless and mobile engineers by allowing students to absorb sound knowledge of the latest development and research trends in ICT around the world. We also prepare students to understand how research efforts in ICT are conducted by introducing students to international research projects around the world and allowing them to be able to develop their own research projects to catch up with the international academic standards.",
+    "img": "icon/png/vision-blue.png"
+
+  },
+  "sectionEnrollment":{
+    "description": "All applicants for any of MITE's programs have to go through the admission procedure, the details of which are clarified here.",
+    "list": [
+      "First, check whether you are eligible to apply for MITE Program by scanning our Admission Conditions.",
+      "Familiarize yourself with the costs under Fees: The tuition fee for the entire program (24 months) is US$ 2000 for Cambodians or US$ 4500 for foreigners. This fee should be paid by US$500 or 1,000 installment at the beginning of each semester or by US$1,000 or 2,000 installment at the start of each academic year.",
+      "Then, go over all the details of our Application Procedure.",
+      "The last step before becoming a student in MITE program is the Registration for fourth Intake."
+    ]
+  },
+  "admissionIntro":{
+    "whoShouldEnroll":{
+      "label": "Who should enroll?",
+      "list": [
+        "Those who are now working in ICT related industry or government sector and a higher degree will help advance their careers.",
+        "Those who are now enjoying their careers in ICT and want to enhance and upgrade their knowledge of the field to a higher level of specialist.",
+        "Fresh graduates who are looking for a higher degree to advance their knowledge and to increase their career opportunities."
+      ]
+    },
+    "rogramRequirements":{
+      "label": "Who should enroll?",
+      "subTitle": "To be admitted into our Master program, students must",
+      "list":[
+        "hold a Bachelor Degree in Computer Science, Information Technology, Management Information Systems, Electrical and Electronic Engineering or its equivalent in the relevant fields approved by our academic board.",
+        "pass an English Test prepared by the Program",
+        "complete an application form, present a certified copy of their Bachelors Degree or equivalent, with a copy of the transcript, three recent 4 x 6 photographs, and present a valid ID card or copy of family book."
+      ]
+    },
+    "programInformation":{
+      "list":[
+        {
+          "label": "Class",
+          "content": "Morning, Afternoon, Evening, or Weekend"
+        },
+        {
+          "label": "Language of Instruction",
+          "content": "English/Khmer"
+        },
+        {
+          "label": "Duration",
+          "content": "4 semesters"
+        },
+        {
+          "label": "Location",
+          "content": "RUPP main campus"
+        }
+      ]
+    }
+  },
+  "sectionIntro":
+  {
+    "img": "departmentSection/ite/ite-department-side-banner.jpg",
+    "header": "Introduction",
+    "summary": "The rapid advancement of information and communication technologies (ICT) has contributed to the economic development around the world. The integration of ICT into private and government sector has also facilitated and sped up the way people work and it has becoming an indispensible tool as part of our lives. Recently, there has been substantial growth of businesses in Cambodia. Many businesses, especially those providing service in information technologies, and telecommunications, have constantly been starting up. As a result, the demands for specialists in this area have been dramatically increasing. However, the supplies of qualified and professional human resources to the market demands are still very limited in Cambodia. Therefore, the development of human resources in this field is urgently required. Taking these circumstances into consideration, Royal University of Phnom Penh − the largest and oldest university in Cambodia − decides to establish a new graduate program to offer a Master of Science in Information Technology Engineering (MITE) in 2009.",
+    "additionalInfor":
+    {
+      "jobInfor": {
+        "description": "The graduates of our master program are expected to have acquired industrial-scale knowledge such as software engineering, database design and development, networking, telecommunications, and so on. After being awarded this degree, our graduates are expected to be employed as:",
+        "header": "Job Prospects",
+        "list":
+        [
+          "Programmers/Software developers",
+          "Database administrators/programmers",
+          "System analysts",
+          "IT consultants",
+          "Researchers or system developers",
+          "Network administrators or specialists",
+          "Wireless and mobile specialists",
+          "IT lecturers, trainers or educators",
+          "Sales and Marketing managers in IT or electronic companies"
+        ]
+      },
+      "researchInfor":{
+        "description": "Research knowledge which are provided by IT Engineering department",
+        "header": "Research",
+        "list":
+        [
+          "Artificial Intelligence",
+          "Data Mining",
+          "Image Processing and Analysis",
+          "Computer Vision",
+          "3D Modeling and Computer Graphics",
+          "Natural Language Processing",
+          "ICT for Education"
+        ]
+      },
+      "skillInfor":
+      {
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "softSkill":
+        {
+          "header": "Soft Skill",
+          "list":
+          [
+            "Presentation",
+            "Communication",
+            "Teamwork",
+            "Time Management"
+          ]
+        },
+        "hardSkill":
+        {
+          "header": "Hard Skill",
+          "list":
+          [
+            "Problem-Solving",
+            "Analytical skills",
+            "Computer software and hardware knowledge",
+            "Software, web, and mobile development",
+            "Programming Language",
+            "Game development",
+            "Data Analytics"
+          ]
+        }
+      }
+    }
+  },
+  "evaluationSection": {
+    "color": "#00bcd4",
+    "accentColor":"#80deea",
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+      "letter": "E = Fail"
+    }
+    ]
+  },
+  "curriculumSection": {
+    "color": "#00bcd4",
+    "accentColor":"#80deea",
+    "colorSet": ["#4dd0e1","#00bcd4","#0097a7"],
+    "title": "Curriculum",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "Advanced Network Computing",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Software Engineering",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "UID",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Research methodologies",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Scientific Experience",
+            "credit": "3",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Database Design and Application",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Computer Graphics",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Network Security",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Image Processing",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Advanced Java Programming",
+            "credit": "3",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "Mobile Application",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Machine Learning & Natural Language Processing",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Satellite & Terrestrial Communication System",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Artificial Intelligence",
+            "credit": "3",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Multimedia",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "General ICT4D",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Final Project 1",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Final Project 2",
+            "credit": "3",
+            "time": 10
+          },
+          {
+            "subject": "Master's Thesis",
+            "credit": "12",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      }
+    ]},
+  "goalSection":
+  [
+    {
+      "list": [
+        "Master of IT Engineering (MITE) upgrades skills and knowledge of students in information and telecommunication technologies to a specialist level for a variety of ICT careers ranging from programmers/software developers, IT consultants, project managers in IT, network specialists to wireless and mobile engineers by allowing students to absorb sound knowledge of the latest development and research trends in ICT around the world. We also prepare students to understand how research efforts in ICT are conducted by introducing students to international research projects around the world and allowing them to be able to develop their own research projects to catch up with the international academic standards."
+      ],
+      "label": "Vision",
+      "img": "icon/skill/ite-vision.png"
+    },
+    {
+      "list": [
+        "What special about our master program is that we are highly committed to building and upgrading the technical knowledge of students with our carefully-structured courses at our first year. This will create a solid foundation for their second year’s focuses. We allow students to choose their preference of research and studies by shaping their knowledge to a particular area of technologies in the second year. Therefore, we provide three special study areas from which they can select."
+      ],
+      "label": "Program Features",
+      "img": "icon/skill/ite-idea-bulb.png"
+    }
+  ]
+}

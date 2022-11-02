@@ -1,0 +1,62 @@
+.academic-container {
+    background-color: #014164;
+    padding: 50px 0 50px 0;
+    .body {
+        .header {
+            color: #ffffff;
+            hr {
+                transition: all 1s;
+                background-color: #ffffff;
+                height: 3px;
+                opacity: 0;
+                width: 0px;
+            }
+        }
+        width: 90%;
+        margin: auto;
+        .main {
+            img {
+                height: 45vh;
+                object-fit:cover;
+                @media (max-width: '768px') {
+                    height: 260px;
+                    object-fit:cover;
+                }
+                @media (min-width: '769px') and (max-width: '1199px') {
+                    height: 310px;
+                    object-fit:cover;
+                }
+            }
+            .undergraduated:hover {
+                cursor: pointer;
+            }
+            .graduated:hover {
+                cursor: pointer;
+            }
+            .desc {
+                h5 {
+                    font-weight: bolder;
+                }
+                p {
+                    font-size: 1em;
+                    @media (max-width: 768px) {
+                        font-size: 12.87px;
+                    }
+                    @media (min-width: 768.5px) and (max-width: 992px) {
+                        font-size: 13px;
+                    }
+                }
+                background-color: #ffffff;
+                padding: 1em 1em .4em 1em;
+            }
+        }
+        .view-more-btn {
+            background-color: #f5f6f9a4;
+            font-weight: bold;
+            color: #014164;
+        }
+        .view-more-btn:hover {
+            background-color: #F5F6F9;
+        }
+    }
+}

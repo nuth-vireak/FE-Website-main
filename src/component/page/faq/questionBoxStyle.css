@@ -1,0 +1,47 @@
+.active {
+  background-color: unset;
+}
+
+.faq .faq-box {
+  width: 100%;
+  padding-left: 6%;
+  padding-right: 6%;
+}
+.faq .faq-box .faq-box-item span {
+  padding-left: 2%;
+}
+.faq .faq-box .faq-box-item .faq-box-header .faq-box-button {
+  box-shadow: none;
+  background-color: #E5E5E5;
+  color: black;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+.faq .faq-box .faq-box-item .faq-box-header .faq-box-button .iconQuestion {
+  color: red;
+  font-size: 150%;
+}
+.faq .faq-box .faq-box-item .faq-box-header .faq-box-button .firstText {
+  width: fit-content;
+}
+.faq .faq-box .faq-box-item .faq-box-collapse .borders-right {
+  border-left: #014164 5px solid;
+}
+.faq .faq-box .faq-box-item .faq-box-collapse .ordernum {
+  width: fit-content;
+}
+.faq .faq-box .faq-box-item .faq-box-collapse .answer {
+  margin: 0;
+  margin-left: 11px;
+}
+.faq .faq-box .faq-box-item .faq-box-collapse .answer .orderAlpabet {
+  font-size: large;
+  font-weight: bold;
+}
+.faq .faq-box .faq-box-item .faq-box-collapse .answer .col-1 {
+  width: fit-content;
+  padding-left: 17px;
+}
+
+/*# sourceMappingURL=questionBoxStyle.css.map */

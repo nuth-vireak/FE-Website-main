@@ -1,0 +1,54 @@
+@import '../../../style/variable';
+
+.detail-header
+{
+
+  &::before
+  {
+    content: "";
+    display: block;
+    width: 5rem;
+    max-width: 150px;
+    height: 7px;
+    background: #0070AD;
+  }
+
+
+  //padding:6rem 0 4rem 0;
+  padding:5rem 0 3rem 0;
+
+  font-family: var(--header-font);
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+@media (max-width: $breakpoint-desktop)
+{
+    .detail-header
+    {
+      font-size:4vw;
+      padding:4vw 0 2vw 0;
+    }
+
+}
+@media screen and (max-width: $breakpoint-table-s)
+{
+
+    .detail-header
+    {
+      font-size:3rem;
+      padding:4rem 0 2rem 0;
+    }
+
+}
+@media screen and (max-width: $breakpoint-mobile)
+{
+
+    .detail-header
+    {
+      font-size:2rem;
+      padding:1em 0 .75em 0;
+    }
+
+}

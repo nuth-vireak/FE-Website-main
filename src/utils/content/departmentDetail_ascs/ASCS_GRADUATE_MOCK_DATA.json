@@ -1,0 +1,359 @@
+{
+  "sectionBanner":
+  {
+    "title": "Bio-Engineering Biotechnology",
+    "subTitle": "Graduate Degree \n Program",
+    "imgUrl": "departmentSection/bio/bio-outline-4.jpg"
+  },
+  "sectionIntro":
+  {
+    "img": "departmentSection/bio/bio-graduate-img-1.jpg",
+    "header": "Introduction",
+    "summary": "\tThe Biotechnology and Food Technology Master Program is designed for students who wish to study the application of biological, chemical, engineering, and physical principles to the conversion of raw agricultural products into processed foods suitable for human consumption, the nature of foods, the causes of deterioration, the principles underlying food processing, and the improvement of food quality and safety for public consumption. The Program intends to prepare engineers for life-long achievement through both education in Biotechnology, Food technology, and sustainable refining of natural products in Cambodia and also development of communication, teamwork, leadership and entrepreneurship skills.\n\tThe Biotechnology and Food Technology Master Program is one of the graduate study programs in the Department of Bio-Engineering, Faculty of Engineering, Royal University of Phnom Penh. The study program has been evaluated and reviewed periodically. With this program, Department of Bioengineering of RUPP intends to develop partnerships with three different Swedish universities, the Swedish Agricultural University, Lund University, and Umeå University. The Department of Bioengineering at RUPP sees this as a clear possibility to create a stronger and more sustainable research group within the Faculty of Engineering. For researchers at all involved universities this represents a unique opportunity to form an interdisciplinary research team around challeng\u00ADing research issues of large human relevance. ",
+
+    "additionalInfor":
+    {
+      "jobInfor": {
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "header": "Job Prospects",
+        "list":
+        [
+          "Agro-industry & Food specialist",
+          "Biomolecular Engineer",
+          "Biological Materials Engineer",
+          "Professor or Research of Biotechnology",
+          "Research or Biological Laboratory Specialist"
+        ]
+      },
+      "researchInfor":{
+        "description": "Research knowledge which are provided by IT Engineering department",
+        "header": "Research",
+        "list":
+        [
+          "Artificial Intelligence",
+          "Data Mining",
+          "Image Processing and Analysis",
+          "Computer Vision",
+          "3D Modeling and Computer Graphics",
+          "Natural Language Processing",
+          "ICT for Education"
+        ]
+      },
+      "skillInfor":
+      {
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "softSkill":
+        {
+          "header": "Soft Skill",
+          "list":
+          [
+            "Presentation",
+            "Communication",
+            "Teamwork",
+            "Time Management"
+          ]
+        },
+        "hardSkill":
+        {
+          "header": "Hard Skill",
+          "list":
+          [
+            "Problem-Solving",
+            "Analytical skills",
+            "Computer software and hardware knowledge",
+            "Software, web, and mobile development",
+            "Programming Language",
+            "Game development",
+            "Data Analytics"
+          ]
+        }
+      }
+    }
+  },
+
+  "trackListSection":
+  {
+    "trackList":
+    [
+      {
+        "trackLabel":"Coursework Track",
+        "trackDescription":"is for students who would like to conduct coursework and final project."
+      },
+      {
+        "trackLabel":"Research Thesis Track",
+        "trackDescription":"is for outstanding student who would like to conduct their research project under the supervision of BE faculty members."
+      },
+      {
+        "trackLabel":"Extended Engineering Training Track",
+        "trackDescription": "is designed for students who would like to participate in a long training period (for the entire semester) under a co-operative training program with companies or organizations."
+      }
+
+    ],
+    "note":"To improve student’s soft skill (communication, teamwork and leadership), the students are required to conduct a minimum 6 weeks internship at a standard company or organization during their vacation time of the third year or before.  "
+  },
+  "strategySection":{
+    "img": "departmentSection/bio/graduate/strategy.png",
+    "imgMobile": "departmentSection/bio/graduate/strategy-mobile-3.svg",
+    "list": [
+      "The strategy is to integrate groups in adjoining areas of fundamental science as well as in technology to create an interdisciplinary research environment within the Faculty of Engineering, in collaborations with the Faculty of Science and with the Department of In\u00ADternational Business Management.",
+      "The strategic objective of the Department of Bioengineering at RUPP is to establish a general competence in processing of biological raw materials to create valuable products. This includes a wide range of raw materials from agri\u00ADculture, forestry, and fishery, and involves the production of foods and materials as main the products, as well as utilization of a wide range of organic side streams into foods, feeds, or as sources of bio-derived chemical raw materials."
+    ]},
+  "visionSection": {
+    "description": "In this program, we propose to strengthen the research and research training capacity of the Royal University of Phnom Penh (RUPP) in the areas of biotechnology, bioengineering and food science. The program consists of research training at the master level that will be established at RUPP in cooperation with the partner universities and subsequently transferred here. By this approach, we believe we will meet the demands for quality in higher education and that a stepwise selection scheme will warrant that the upper levels of education will be offered to the crème de la crème of our domestic students, based purely on academic merits.",
+    "img": "icon/png/vision-green.png"
+  },
+  "outcomeSection":
+  [
+
+    {
+      "label": "Upon a successful completion, This program will be able to ",
+      "list":[
+        "Experience in scientific research both direct and industrial work environment.",
+        "Experience in establishment and management on project with innovative business model in food and biotechnology to meet the job current and future job market in food and biotechnology industries.",
+        "Develop business and start-up project in biotechnological fields. "
+      ]
+    },{
+    "label": "Explain and evaluate on food and biotechnology’s values",
+    "list":[
+      "Instrumental analysis",
+      "Advance biochemistry",
+      "Bioprocess Engineering",
+      "Industrial biotechnology & Plant biotechnology",
+      "Advance food technology & Fermentation technology",
+      "Entrepreneurship skill & project management"
+    ]
+  },
+
+    {
+      "label": "Interpersonal Skills & Responsibility",
+      "list":[
+        "Work independently, as part of a team and able to carry responsibilities in operation process and research",
+        "Illustrate the value of biotechnology to the public",
+        "Evaluate the performance of commonly used process in biotechnological fields such as gene technology, industrial microbiology, Enzyme technology, food technology and plant cell technology."
+      ]
+    },
+    {
+      "label": "Psychomotor",
+      "list": [
+        "Manipulate and handle glass-wares, lab. Instruments, chemicals and biological materials in advance",
+        "Operates engineering process equipment in biotechnological field such as food processing and bioprocessing.",
+        "Perform and experiment qualitative and qualitative experimentation in biotechnological field such as gene technology, industrial microbiology, Enzyme technology, food technology and plant cell technology."
+      ]
+    },
+    {
+      "label": "Communication, Information Technology, Numerical",
+      "list": [
+        "Demonstrate skill in the usage of computer, network, and software packages relevant to chemistry, biotechnology, basic statistic and engineering.",
+        "Oral and/or poster presentation in national and international conferences/symposium "
+      ]
+    }
+
+
+  ],
+  "admissionSection":
+  {
+    "header": "Admission Requirements",
+    "img": "departmentSection/general/graduate/enroll-bio.png",
+    "description": "The medium of instruction of all master program at Wageningen University & Research is the English language. To be admitted to the Master's program at Department of Bio-Engineering",
+    "label": "Royal University of Phnom Penh you need to have",
+    "list":
+    [
+      "A bachelor's degree (or equivalent) in a relevant field of science and technology: Bioengineering, Biotechnology, Food Engineering, Biochemistry, Chemistry, Biology, Agro-industry, or Food Technology.\n",
+      "Proof of English proficiency: ITP TOEFL (500), PBT TOEFL (500), CBT TOEFL (173), IBT TOEFL (61), IELTS (5.5)",
+      "Sufficient quality of the bachelor's degree",
+      "Complete the application form",
+      "Personal Statement in English (Max 2 pages)",
+      "Resume (Max. 2 pages)",
+      "Picture (4x6: 3) and (3x4: 2)"
+    ],
+    "important":"Applications that do not meet the English proficiency requirements will be put on a hold and will not be viewed by the admission board(s). Unless you can be exempted, we need one of the following results as evidence of your English proficiency. An admission committee will judge every application on an individual basis."
+  },
+
+  "evaluationSection": {
+    "color": "#4db6ac",
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+
+      "letter": "E = Fail"
+    }
+    ]
+  },
+  "curriculumSection": {
+    "title": "Curriculum",
+    "description":"The curriculum is designed education in the principles of Bio Engineering and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "Instrumental Analysis",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Apply and Multivariate Statistics",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Surface and Collid Chemistry",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Cell and Organism Metabolism",
+            "credit": "4",
+            "time": "(2-4-6)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Bioinformatics",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Techniques in Biotechnology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Industrial Biotechnology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Substainable Bioprocess Engineering",
+            "credit": "4",
+            "time": "(2-4-6)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year (Research Master Track)",
+        "semesterOne": [
+          {
+            "subject": "Ferminental Technology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Plant Biochemistry/Molecular Biology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Thesis work",
+            "credit": "8",
+            "time": "(0-16-12)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Thesis work",
+            "credit": "16",
+            "time": "(0-32-24)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year (Industrial Master Track)",
+        "semesterOne": [
+          {
+            "subject": "Fermentation Technology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Plant Biochemistry/Molecular Biology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Food Science and microbiology",
+            "credit": "4",
+            "time": "(2-4-6)"
+          },
+          {
+            "subject": "Advanced food technology ",
+            "credit": "4",
+            "time": "(2-4-6)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Thesis Work",
+            "credit": "16",
+            "time": "(0-32-24)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Analytical Chemistry I",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Mathematics",
+            "credit": "2",
+            "time": 10
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "English",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "Critical thinking & Personal develop.",
+            "credit": "2",
+            "time": 10
+          },
+          {
+            "subject": "MATLAB programming",
+            "credit": "2",
+            "time": 10
+          }
+        ]
+      }
+    ]},
+
+}

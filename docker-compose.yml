@@ -1,0 +1,27 @@
+version: '2.3'
+
+services:
+  dev:
+    container_name: fe-website-react_dev
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+      target: developmet
+    volumes:
+      - /app/node_modules
+      - ./:/app
+    ports:
+      - 3000:3000
+    command: npm start
+  prod:
+    container_name: fe-website-react_prod
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+      target: production
+    volumes:
+      - /app/node_modules
+      - ./:/app
+    ports: 
+       - 3030:3000
+    command: serve -s build

@@ -1,0 +1,84 @@
+.PartnerCard
+{
+  background-color: var(--primary-text-color);
+  padding: 1.5em;
+  display:flex;
+  border-radius: 5px;
+  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.1);
+  .logo
+  {
+    align-self: start;
+    max-width: 250px;
+    width: 15vw;
+    object-fit: contain;
+  }
+
+  .information
+  {
+    margin-left:1.5rem;
+    .name
+    {
+      font-family: var(--header-font);
+      font-size:1.5rem;
+      font-weight:bold;
+      text-transform:uppercase;
+    }
+    .description
+    {
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      font-weight:normal;
+      color:var(--primary-dark-low-text-color);
+    }
+    .visitButton
+    {
+      white-space: nowrap;
+      //width: 100%;
+
+      padding:.7rem 2.25rem;
+      outline: none;
+      border: none;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 1rem;
+      background-color: var(--primary-blue-brigh-text-color);
+      color: var(--primary-text-color);
+      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+      border-radius:2px;
+
+      transition: color,background-color 250ms ease-in-out;
+
+      &:hover
+      {
+        background-color: var(--primary-text-color);
+        color:var(--primary-blue-brigh-text-color);
+        .button-icon
+        {
+          color:var(--primary-blue-brigh-text-color);
+        }
+      }
+
+      .button-icon
+      {
+        margin-left:.5em;
+        font-size:1.2rem;
+      }
+    }
+  }
+}
+
+.alternatePartnerCard
+{
+  background-color: #4A5862;
+  .information
+  {
+    .name
+    {
+      color:var(--primary-text-color)
+    }
+    .description
+    {
+      color:#CCCCCC;
+    }
+  }
+}

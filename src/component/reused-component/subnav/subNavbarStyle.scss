@@ -1,0 +1,21 @@
+.sub-nav-bar{
+    padding: 2% 6% 3% 6%;
+
+    .nav-item {
+        background-color: #E5E5E5;
+        flex-basis: 25%;
+        justify-content: center;
+        .nav-link{
+            width: 100%;
+            border-radius: 0;
+            color:#014164 ;
+        }
+        .active{
+            color:white;
+            background-color: #014164;
+        }
+        
+        
+    }
+  
+}

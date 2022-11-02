@@ -1,0 +1,62 @@
+.research-preview {
+    background-color: #F5F5F5;
+    .body {
+        width: 90%;
+        margin: auto;
+        padding: 0 0 50px 0;
+        .header {
+            align-items: flex-end;
+            display: flex;
+            justify-content: space-between;
+            h1 {
+                color: #014164;
+            }
+            hr {
+                width: 100px;
+                height: 3px;
+                opacity: 1;
+                background-color: #014164;
+            }
+            .view-more-btn {
+                font-weight: bold;
+            }
+            .view-more-btn:hover {
+                background-color: #014164;
+                color: #ffffff;
+            }
+        }
+        .list-researchs {
+            margin-top: 2rem;
+            .research-item {
+                img {
+                    width: 100%;
+                    margin: 0 0 1rem 0;
+                    height: 36vh;
+                    object-fit:cover;
+                    object-position: 50% top;
+                    @media (max-width: 576px) {
+                        height: 30vh;
+                        object-fit:cover;
+                        object-position: 50% top;
+                    }
+                    @media (min-width: 576.5px) and (max-width: 767.5px) {
+                        height: 45vh;
+                        object-fit:cover;
+                        object-position: 50% top;
+                    }
+                    @media (min-width: 768px) and (max-width: 992px) {
+                        height: 20vh;
+                        object-fit:cover;
+                        object-position: 50% top;
+                    }
+                    @media (min-width: 993px) and (max-width: 1200px){
+                        height: 25vh;
+                        object-fit:cover;
+                        object-position: 50% top;
+                    }
+                }
+                h5 {}
+            }
+        }
+    }
+}

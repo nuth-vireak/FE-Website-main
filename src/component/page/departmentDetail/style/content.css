@@ -1,0 +1,149 @@
+.content-graduate,
+.content-undergraduate,
+.about-department {
+  position: relative;
+}
+.content-graduate .background,
+.content-undergraduate .background,
+.about-department .background {
+  width: 100%;
+  object-fit: cover;
+  max-height: 900px;
+}
+.content-graduate .background-mobile,
+.content-undergraduate .background-mobile,
+.about-department .background-mobile {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+
+.content-graduate {
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+  padding-bottom: unset;
+}
+.content-graduate .background,
+.content-graduate .background-mobile {
+  border-radius: 1.5rem;
+}
+.content-graduate .banner-description {
+  transform: translate(-20%, -50%);
+}
+
+.scroll-down-icon {
+  display: flex;
+  justify-content: center;
+  left: 0;
+  right: 0;
+  font-size: 5rem;
+  position: absolute;
+  bottom: 5%;
+  animation-name: scroll-down-animation;
+  animation-duration: 1.5s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay: 1s;
+  animation-timing-function: ease-in-out;
+}
+.scroll-down-icon:hover {
+  cursor: pointer;
+}
+@keyframes scroll-down-animation {
+  from {
+    transform: translate(0, -1rem);
+    opacity: 0;
+  }
+  to {
+    transform: translate(0, 1rem);
+    opacity: 1;
+  }
+}
+.white-text {
+  color: var(--primary-text-color);
+}
+
+.right-banner-style {
+  transition: transform 250ms linear 150ms;
+  left: 30%;
+  right: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.left-banner-style {
+  left: 60%;
+  right: 0;
+  transform: translate(-10%, -50%);
+}
+
+.banner-description {
+  position: absolute;
+  top: 50%;
+}
+.banner-description .float-left-animation {
+  animation-name: translateHeader;
+  animation-duration: 2s;
+  animation-fill-mode: both;
+}
+.banner-description .about-description {
+  font-size: 1.25rem;
+  margin: 0;
+  animation-name: translateDescription;
+  animation-duration: 2s;
+}
+@keyframes translateHeader {
+  from {
+    transform: translate(-30rem, 0);
+    opacity: 0;
+  }
+  to {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
+@keyframes translateDescription {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.banner-description .content-title {
+  font-family: var(--content-header-font);
+  text-transform: uppercase;
+  line-height: 120%;
+  font-size: 6rem;
+}
+.banner-description .content-description {
+  font-size: 1.25rem;
+  font-style: normal;
+}
+.banner-description .content-title,
+.banner-description .content-description {
+  transition: margin 250ms ease-in-out;
+  margin-bottom: 3rem;
+}
+.about-title {
+  font-family: var(--header-font);
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 100%;
+  text-transform: uppercase;
+  margin-bottom: 10%;
+}
+.about-title::before {
+  content: "";
+  position: absolute;
+  top: -1rem;
+  display: block;
+  width: 15%;
+  max-width: 150px;
+  height: 4%;
+  background: #0070AD;
+}
+
+/*# sourceMappingURL=content.css.map */

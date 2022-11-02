@@ -1,0 +1,10 @@
+.end-line-article {
+  display: none;
+}
+@media (max-width: 572px) {
+  .end-line-article {
+    display: block;
+  }
+}
+
+/*# sourceMappingURL=department_card.css.map */

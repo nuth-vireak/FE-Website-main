@@ -1,0 +1,13 @@
+$breakpoint-desktop:1599px;
+$breakpoint-laptop-m:1366px;
+$breakpoint-laptop-s:1200px;
+$breakpoint-table-m:1024px;
+$breakpoint-table-s:768px;
+$breakpoint-mobile:480px;
+
+@mixin paddingContent ()
+{
+  padding-left: 6%;
+  padding-right: 6%;
+  padding-bottom: 6%;
+}

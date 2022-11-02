@@ -1,0 +1,33 @@
+.staff {
+  background-color: var(--primary-white-blue-color);
+  padding: 0 6%;
+  position: relative;
+}
+.staff .staff-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+  padding-bottom: 5rem;
+}
+
+@media (max-width: 1599px) {
+  .staff .staff-layout {
+    gap: 2vw;
+  }
+}
+@media (max-width: 1200px) {
+  .staff .staff-layout {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 768px) {
+  .staff {
+    background-color: var(--primary-text-color);
+  }
+  .staff .staff-layout {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+/*# sourceMappingURL=staff.css.map */

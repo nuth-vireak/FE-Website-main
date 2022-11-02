@@ -1,0 +1,510 @@
+{
+  "sectionBanner":
+  {
+    "title": "Information Technology Engineering",
+    "subTitle": "Bachelor Degree",
+    "imgUrl": "departmentSection/ite/ite-outline-3.jpg"
+  },
+  "sectionIntro":
+  {
+    "img": "departmentSection/ite/ite-department-side-banner.jpg",
+    "header": "Introduction",
+
+    "summary": "Bachelor of Information Technology Engineering (ITE) program at Faculty of Engineering, Royal University of Phnom Penh is designed to provide high-quality training in Information Technology which meets the current and future labor market requirements by emphasizing a broad foundation of computer organization, software, and mathematics both theoretical and practical aspects. With elective courses such as Artificial Intelligence, Computer Graphics, Game Development, Data Mining, and Security, it enables students to be capable to develop diverse industrial applications. At ITE, students are required to do practicum from year 2 to year 4 with real world problem. Doing practicum plays a crucial role in training students to acquire valuable experience required skill sets and ability to be ready for work at Tech Company after graduation.\n\nThe curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software. During first and second year, students study about foundation theories of computer software & network engineering. For third & forth year, they will have more advance courses such as Object-Oriented Analysis and Design, Product Design, Network Engineering, Database Design, Operating System, Mobile Application Development, Artificial Intelligence, Commuter Graphic, and Practicum (to build a real product). From the end of third year students must go for internship in private or pubic organizations. Lecturers and Researchers of IT Engineering department mostly graduated from abroad, the key    success of our team is to give more homework/assignment/project to students, and let them hand on to build a real thing by applying technologies and theories. Thus, students in our department they will have experiences in team work, developing application, make presentation, and critical thinking.",
+    "additionalInfor":
+    {
+      "jobInfor": {
+        "img":"icon/skill/logical-thinking-it.png",
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "header": "Job Prospects",
+        "list":
+        [
+          "Agile Software Developer",
+          "Agile Web Developer",
+          "Agile Mobile Developer",
+          "Fullstack Developer",
+          "Game Developer",
+          "Network & Security Engineer",
+          "Data Engineer"
+        ]
+      },
+      "researchInfor":{
+        "description": "Research knowledge which are provided by IT Engineering department",
+        "img":"icon/skill/programming-language-it.png",
+        "header": "Research",
+        "list":
+        [
+          "Artificial Intelligence",
+          "Data Mining",
+          "Image Processing and Analysis",
+          "Computer Vision",
+          "3D Modeling and Computer Graphics",
+          "Natural Language Processing",
+          "ICT for Education"
+        ]
+      },
+      "skillInfor":
+      {
+        "description": "Based on knowledge which are provided by IT Engineering department, graduates can work as",
+        "img":"departmentSection/ite/undergraduate/flow-diagram.png",
+        "softSkill":
+        {
+          "header": "Soft Skill",
+          "list":
+          [
+            "Presentation",
+            "Communication",
+            "Teamwork",
+            "Time Management"
+          ]
+        },
+        "hardSkill":
+        {
+          "header": "Hard Skill",
+          "list":
+          [
+            "Problem-Solving",
+            "Analytical skills",
+            "Computer software and hardware knowledge",
+            "Software, web, and mobile development",
+            "Programming Language",
+            "Game development",
+            "Data Analytics"
+          ]
+        }
+      }
+    }
+  },
+  "evaluationSection": {
+    "color": "#00bcd4",
+    "accentColor":"#80deea",
+    "title":"Evaluation & Graduation",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "table":
+    [
+      {
+        "score":"85-100",
+        "gpa": "4.0",
+        "letter": "A = Excerllent"
+      },{
+      "score":"80-84",
+      "gpa": "3.5",
+      "letter": "B+ = Very Good"
+    },{
+      "score":"70-79",
+      "gpa": "3.0",
+      "letter": "B = Good"
+    },{
+      "score":"65-69",
+      "gpa": "2.5",
+      "letter": "C+ = Fairly good"
+    },{
+      "score":"50-64",
+      "gpa": "2.0",
+      "letter": "C = Fair"
+    },{
+      "score":"45-49",
+      "gpa": "1.5",
+      "letter": "D = Poor"
+    },{
+      "score":"<40",
+      "gpa": "0.0",
+      "letter": "E = Fail"
+    }
+    ]
+  },
+
+  "trackListSection":
+  {
+    "color": "#00bcd4",
+    "accentColor":"#80deea",
+    "colorSet": ["#4dd0e1","#00bcd4","#0097a7"],
+    "img": "icon/png/ite/ite-track.png",
+    "department": "track-label-ite",
+    "trackList":
+    [
+      {
+        "trackLabel":"Coursework",
+        "trackDescription":"is for students who would like to conduct coursework and final project."
+      },
+      {
+        "trackLabel":"Research Thesis",
+        "trackDescription":"is for outstanding student who would like to conduct their research project under the supervision of BE faculty members."
+      },
+      {
+        "trackLabel":"Extended Training",
+        "trackDescription": "is designed for students who would like to participate in a long training period (for the entire semester) under a co-operative training program with companies or organizations."
+      }
+
+    ],
+    "note":"To improve student’s soft skill (communication, teamwork and leadership), the students are required to conduct a minimum 6 weeks internship at a standard company or organization during their vacation time of the third year or before.  "
+  },
+  "admissionSection":
+  {
+    "img": "departmentSection/general/graduate/enroll-ite.png",
+    "description": "",
+    "list":
+    [
+      "Math: A - E",
+      "Physic: A - E"
+    ]
+  },
+  "curriculumSection": {
+    "color": "#00bcd4",
+    "accentColor":"#80deea",
+    "colorSet": ["#4dd0e1","#00bcd4","#0097a7"],
+    "title": "Curriculum",
+    "description":"The curriculum of Information Technology Engineering Department is designed for our students with abilities to use new technologies and theories to design and develop computer software",
+    "curriculum":[
+      {
+        "yearLabel": "Foundation",
+        "semesterOne": [
+          {
+            "subject": "Mathematics I",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Computer Fundamental",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Physics",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Academic skll",
+            "credit": "1",
+            "time": "(0-2)"
+          },
+          {
+            "subject": "ICT for development (or Khmer civilization and culture)",
+            "credit": "1",
+            "time": "(0-2)"
+          },
+          {
+            "subject": "General English I",
+            "credit": "4",
+            "time": "(6-0)"
+          }
+          
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Mathematics II",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Technical Drawing",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Basic Programming Language",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Introduction to statistics",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Introduction to electrical Engineering",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "General English II",
+            "credit": "4",
+            "time": "(6-0)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Second Year",
+        "semesterOne": [
+          {
+            "subject": "Probability and Statistics",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Mathematic III",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Data Communication I",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Advanced Programming Language I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Data Structure and Algorithm I",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "General English III",
+            "credit": "4",
+            "time": "(6-0)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Discrete Math",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Data Communication II",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Advance Programming Language II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Data Structure and Algorithm II",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Database I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "General English IV",
+            "credit": "4",
+            "time": "(6-0)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Third Year",
+        "semesterOne": [
+          {
+            "subject": "Network Engineering I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Database II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Computer Graphic I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Operating System",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "OOAD",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Web Technologies and Cloud Computing I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2)"
+          }
+        ],
+        "semesterTwo": [
+          {
+            "subject": "Software Engineering",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Web Technology & Cloud Computing II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Network Engineering II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Computer Graphic II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Mobile Application Development I",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Artificial Intelligence",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2)"
+          }
+        ]
+      },
+      {
+        "yearLabel": "Fourth Year",
+        "semesterOne": [
+          {
+            "subject": "Management Information System",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Mobile Application Development II",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Entrepretneurship",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Computer Security",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Introduction to Data Mining",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Game Application Development",
+            "credit": "3",
+            "time": "(2-2)"
+          },
+          {
+            "subject": "Project Practicum",
+            "credit": "1",
+            "time": "(0-2)"
+          }
+        ],
+        "semesterTwo": [
+
+          {
+            "group": "Option 1"
+          },
+          {
+            "subject": "Professionalism Computing & Ethics",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Software Testing",
+            "credit": "3",
+            "time": "(3-0)"
+          },
+          {
+            "subject": "Final Project",
+            "credit": "2",
+            "time": "(6-0)"
+          },
+          {
+            "group": "Option 2"
+          },
+          {
+            "subject": "Thesis",
+            "credit": "1",
+            "time": "(1.5)"
+          }
+          ]
+      }
+    ]},
+  "skillInfor":
+  {
+    "description": "The ASCSE Program intends to prepare students for life-long achievement through both education in the principles of ASCSE and also development of communication, teamwork, leadership and entrepreneurship skills.",
+    "softSkill":
+    {
+      "header": "soft skill",
+      "list":
+      [
+        "Problem-Solving",
+        "Teamwork",
+        "Presentation",
+        "Communication",
+        "Time Management"
+      ],
+      "icon":
+      [
+        "icon/skill/ite-solve.png",
+        "icon/skill/ite-team.png",
+        "icon/skill/ite-presentation.png",
+        "icon/skill/ite-networking.png",
+        "icon/skill/ite-clock.png"
+      ]
+    },
+
+    "hardSkill":
+    {
+      "header": "",
+      "list":
+      [
+        "Analytical skills",
+        "Software and hardware Knowledge",
+        "Web & Mobile App development",
+        "Programming Language",
+        "Data Analytics"
+      ],
+      "icon":
+      [
+        "icon/skill/ite-engineering.png",
+        "icon/skill/ite-microprocessor.png",
+        "icon/skill/ite-app-development.png",
+        "icon/skill/ite-coding-language.png",
+        "icon/skill/ite-data-science.png"
+      ]
+    }
+  },
+
+  "partnerSection":
+  {
+    "label": "Partner & Support by",
+    "logo": [
+      "logo/university/bio-m-partner-1.png",
+      "logo/university/bio-m-partner-2.png",
+      "logo/university/bio-m-partner-3.png",
+      "logo/university/bio-m-partner-4.png"
+    ]
+  }
+}
+
+
+

@@ -1,0 +1,65 @@
+.PartnerCard {
+  background-color: var(--primary-text-color);
+  padding: 1.5em;
+  display: flex;
+  border-radius: 5px;
+  box-shadow: 4px 4px 7px rgba(0, 0, 0, 0.1);
+}
+.PartnerCard .logo {
+  align-self: start;
+  max-width: 250px;
+  width: 15vw;
+  object-fit: contain;
+}
+.PartnerCard .information {
+  margin-left: 1.5rem;
+}
+.PartnerCard .information .name {
+  font-family: var(--header-font);
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.PartnerCard .information .description {
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  font-weight: normal;
+  color: var(--primary-dark-low-text-color);
+}
+.PartnerCard .information .visitButton {
+  white-space: nowrap;
+  padding: 0.7rem 2.25rem;
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: var(--primary-blue-brigh-text-color);
+  color: var(--primary-text-color);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+  transition: color, background-color 250ms ease-in-out;
+}
+.PartnerCard .information .visitButton:hover {
+  background-color: var(--primary-text-color);
+  color: var(--primary-blue-brigh-text-color);
+}
+.PartnerCard .information .visitButton:hover .button-icon {
+  color: var(--primary-blue-brigh-text-color);
+}
+.PartnerCard .information .visitButton .button-icon {
+  margin-left: 0.5em;
+  font-size: 1.2rem;
+}
+
+.alternatePartnerCard {
+  background-color: #4A5862;
+}
+.alternatePartnerCard .information .name {
+  color: var(--primary-text-color);
+}
+.alternatePartnerCard .information .description {
+  color: #CCCCCC;
+}
+
+/*# sourceMappingURL=partnerCard.css.map */

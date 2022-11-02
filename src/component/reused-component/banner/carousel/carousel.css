@@ -1,0 +1,22 @@
+@media (min-width: 768px) and (max-width: 1200px) {
+  .container-fluid {
+    padding-top: 80px;
+  }
+  .container-fluid .title {
+    font-size: 2rem;
+  }
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+}
+
+@media (min-width: 768.5px) {
+  .custom-col-md-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+  }
+}
+
+/*# sourceMappingURL=carousel.css.map */
